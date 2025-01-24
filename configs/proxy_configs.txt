@@ -10,7 +10,7 @@ trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerT
 
 trojan://9Bb6wjlTOA@x14spain.devefun.net:1935?security=tls&headerType=none&type=tcp&sni=x14spain.devefun.net#@meli_proxyy
 
-trojan://9Bb6wjlTOA@x14spain.devefun.net:1935?security=tls&headerType=none&type=tcp&sni=x14spain.devefun.net#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://DC%26%26buj17.%23donz*@188.114.96.3:2096?path=%2Ftrv0bKhj5yqIDXOTTS%2FMTYyLjE1OC4yMDEuODI%3D%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=sue-support.pages.dev&fp=randomized&type=ws&sni=sUE-SuppORt.pAGeS.DeV#@meli_proxyy
 
 wireguard://%2BOtQ70v9LB%2BKKslq4fAjPCop187qBBtUPpg2dsMVOEo%3D@188.114.98.92:7156?address=172.16.0.2%2F32&reserved=69%2C3%2C87&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon5
 
@@ -19,20 +19,6 @@ wireguard://4GOt%2BEp6tuAoyNWOTiboZuZ9FombwWqKx1NOOpGpanw%3D@162.159.195.135:888
 wireguard://EP3JBCDZJUwV7Hv69OCBe8qy5n6bHUd67yDdlNJmZ3c%3D@162.159.192.238:4198?address=172.16.0.2%2F32&reserved=42%2C248%2C42&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
 
 wireguard://UJcEXHvCNGO5Nqs7Sa8mA7OLuQH9MUJgk96smoGe93o%3D@162.159.195.176:1002?address=172.16.0.2%2F32&reserved=24%2C200%2C18&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
-
-wireguard://WC5%2BVzzLdA%2BCup1lHGgFj6NWCVoHsGU2Q6cMQ3AvQk0%3D@188.114.99.105:1014?address=172.16.0.2%2F32&reserved=250%2C66%2C223&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
-
-wireguard://YDXBsSzq7Ti5bNiOVVREmGN0hFYMkbHxn0OmKV%2FNH3Y%3D@188.114.97.84:4177?address=172.16.0.2%2F32&reserved=38%2C224%2C78&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
-
-wireguard://aG3enuNak5o75CmICvBRrqWROJK%2FTm5tru97%2FXQOJHk%3D@162.159.195.210:908?address=172.16.0.2%2F32&reserved=159%2C145%2C38&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon8
-
-wireguard://aG3enuNak5o75CmICvBRrqWROJK%2FTm5tru97%2FXQOJHk%3D@162.159.195.210:908?address=172.16.0.2%2F32&reserved=159%2C145%2C38&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
-wireguard://mJnLjpJUsl7LefmdFIu2VqfUR5Du5KkEuxNmPGaCdnA%3D@188.114.98.250:880?address=172.16.0.2%2F32&reserved=142%2C195%2C41&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
-
-wireguard://qHnshcsjTBy74y7C%2B5T1oH%2Fmo%2Fz050VMv9vVa9kNKUg%3D@188.114.97.221:908?address=172.16.0.2%2F32&reserved=178%2C22%2C233&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
-
-wireguard://yHhhXYr4bX47aO4sIeaoS%2F%2B%2FOR6RU2HmC5TeGrhgr2A%3D@162.159.192.234:8854?address=172.16.0.2%2F32&reserved=6%2C154%2C18&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
 
 vless://%40v2boxvpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
@@ -56,6 +42,8 @@ vless://163effed-f1a8-494e-bb43-79277b85031f@tg-ELiV2.f-35.store:2003?mode=gun&s
 
 vless://184997d9-a803-4e6d-ef6f-ed338d09e8ec@91.107.189.190:5650?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=o6-d1-GMZlIpW1yNIvKtwYNxTotEiVzfbSzUTsV7bnU&type=tcp&headerType=none#@meli_proxyy
 
+vless://1a873334-0a8b-46e9-b6b5-92ff9dd34fa6@vixsm.ir:4810?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.144:3237?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.74:3237?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
@@ -74,6 +62,8 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@151.101.194.133:80?path=%2F%3Fed%3D
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?path=%2Fvless-ws%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=teleirani.ir&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=teleirani.ir&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah10.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah11.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
@@ -85,10 +75,6 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah13.fast.hosting-ip.com:80?p
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah14.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah15.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
-
-vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah16.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
-
-vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah7.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2V3FBM00ybllHblZNNGx4RFRRSXVD@45.129.185.82:42750#@meli_proxyy
 
@@ -106,21 +92,21 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig84.usecharg
 
 vmess://ewogICAgImFkZCI6ICJici44OTk5OTQueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYnIuODk5OTk0Lnh5eiIsCiAgICAiaWQiOiAiYTA2MDU1MjctMjhlNC00NDljLTgwZWUtNTY0MmNjMTZhOGFmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2luZGV4IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuNjQuMS0xNDY1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 
-vmess://ewogICAgImFkZCI6ICJvdmh3dXhpYW4ucGFpNTAyODgudWsiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJvdmh3dXhpYW4ucGFpNTAyODgudWsiLAogICAgImlkIjogIjg2NDU1YmZjLWRkMDItNGEzYi05ZjAzLTc2NjhmMzkzNzVkNiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4NDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMTUzLjE1Ni02MDY3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-
 vmess://ewogICAgImFkZCI6ICJzZS44OTk5OTQueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2UuODk5OTk0Lnh5eiIsCiAgICAiaWQiOiAiYTA2MDU1MjctMjhlNC00NDljLTgwZWUtNTY0MmNjMTZhOGFmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2luZGV4IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuNDguMS0xNDYxIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 
-vmess://eyJ2IjoiMiIsInBzIjoiRC1CUk9XTi05NzU0IiwiYWRkIjoiMjA5Ljk3LjE1NC4yNDEiLCJwb3J0IjoiODg4MSIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJtb2kuaXIiLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQzLjE5OC4xOC4zNSIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1vaS5pciIsInBhdGgiOiJcLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
 
-vmess://eyJ2IjoiMiIsInBzIjoiRC1XRUFMVEgtMjM4NiIsImFkZCI6IjE0My4xOTguMTguMzUiLCJwb3J0IjoiODg4MSIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJtb2kuaXIiLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
-
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDkuMTIuMTg4LjIyMiIsInBvcnQiOjE4MzQ0LCJpZCI6IjA4NTFlZGRhLTNlMzEtNGE1Zi1iNTZiLTI3YjE4MmJhYWIzOSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzcuMjcuMjE0LjMiLCJwb3J0IjozMjQ1NywiaWQiOiJmYzc5MzFkOS04NDk0LTQyODctODRlMy1lOTA4M2FiZjJlNDciLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTUuMjE3LjIyMi4xNDgiLCJwb3J0IjoxNDM0MywiaWQiOiI3MWQwYWMzZC0zMmNhLTQ1ZmYtOTA3ZS1iNTQzMzEzNDcwMzUiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiZnIxLmxleHVzdnBuLnh5eiIsInBvcnQiOiI1NjA2MCIsImlkIjoiZjYwYWYxNDYtNmM5Yy00MTQ4LWI0ZmEtMmFlNjIzMDVkNDI0IiwiYWlkIjowLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6Im5vbmUifQ==
 
 vmess://eyJhZGQiOiAiMTA0LjE5LjQ4LjIzNiIsICJhaWQiOiAwLCAiaG9zdCI6ICIxMDAtMTU0LTg3LTkzLnMyLmNuLWRiLnRvcCIsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjIwLjg4Ljc1IiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1XUy1OQSBcdWQ4M2NcdWRmZjRcdTIwMGRcdTI2MjBcdWZlMGYgTkEtMTA0LjE5LjQ4LjIzNjo4MCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 
 vmess://eyJhZGQiOiAiMTA3LjE0OC4yMDcuMjQ5IiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xMDcuMTQ4LjIwNy4yNDk6NDg3MTIiLCAicG9ydCI6IDQ4NzEyLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYXBwc3ZzLnNob3AiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+
+vmess://eyJhZGQiOiAiMzguNjMuMjUxLjI0NCIsICJhaWQiOiAiNjQiLCAiaG9zdCI6ICJ3d3cuMTUyNzExNjMueHl6IiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8yNDA4MTEwNjI4MTMiLCAicG9ydCI6ICI0Nzc3NyIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0zOC42My4yNTEuMjQ0OjQ3Nzc3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ3d3cuMTUyNzExNjMueHl6IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 
 vmess://eyJhZGQiOiI0NS44LjE1OS4yNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzk4Y2U4NGUtNDg0OS00ZTVmLTliMWEtYTU2ZmJlMjMzYjgxIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjMxNDk1IiwicHMiOiJAVm1lc3NQcm90b2NvbPCflIsiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
