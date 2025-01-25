@@ -4,15 +4,17 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-trojan://1052e8e0-da25-11ef-917f-1239d0255272@fr1.test3.net:443/www.speedtest.net?sni=www.speedtest.net#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#%F0%9F%94%AE6%40oneclickvpnkeys
 
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.151.194.64:46002?#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@103.77.247.224:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.66.219:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 wireguard://%2BOtQ70v9LB%2BKKslq4fAjPCop187qBBtUPpg2dsMVOEo%3D@188.114.98.92:7156?address=172.16.0.2%2F32&reserved=69%2C3%2C87&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
+
+wireguard://%2BOtQ70v9LB%2BKKslq4fAjPCop187qBBtUPpg2dsMVOEo%3D@188.114.98.92:7156?address=172.16.0.2%2F32&reserved=69%2C3%2C87&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://2GEqJveqt3mw7mkiCZO%2BuwApl8mp3822KfUc5Ghv40E%3D@162.159.192.79:3476?address=172.16.0.2%2F32&reserved=129%2C208%2C23&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
 
@@ -136,9 +138,9 @@ vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0LmJ1eWtpdC5pci4iLCJpZCI6Ijk0ZjMzMmIwLWM1ZDMtNDUzMS1hMWQ2LTZlNjM1OGNjNmM3MiIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9kM2QzTG1seVlXNW9iM04wTG1OdmJRXHUwMDNkXHUwMDNkP2VkXHUwMDNkMjU2MCIsInBvcnQiOiIyMDk1IiwicHMiOiLinIXYs9ix2YjYsdmH2KfbjNio24zYtNiq2LHYr9ix2qnYp9mG2KfZhDpwcnJvZmlsZV9wdXJwbGVA4pyFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiIxNzguMjUzLjMyLjM5IiwiYWlkIjoiMCIsImhvc3QiOiJwdWxsLmZyZWUudmlkZW8uMTAwMTAuY29tIiwiaWQiOiI4MjY2NzY2OC00YmZkLTQ5MDYtYWIzMS1jMjc0NWQwZGU3OGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjYwODAiLCJwcyI6IvCfkYnwn4aUQHYycmF5X2NvbmZpZ3NfcG9vbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxMTIuMTMyLjIxMi4xOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDA0IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vmess://eyJhZGQiOiIxODEuNDEuMTk0LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY5Y2JhMGY0LTNjYmMtNGRiZi1lNmY3LTZiZjVlOTg4NzJjYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzA5NTIiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vmess://eyJhZGQiOiIxNzguMjUzLjMyLjM5IiwiYWlkIjoiMCIsImhvc3QiOiJwdWxsLmZyZWUudmlkZW8uMTAwMTAuY29tIiwiaWQiOiI4MjY2NzY2OC00YmZkLTQ5MDYtYWIzMS1jMjc0NWQwZGU3OGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjYwODAiLCJwcyI6IvCfkYnwn4aUQHYycmF5X2NvbmZpZ3NfcG9vbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 hysteria2://92dc14c5-e2b0-41bc-9827-1b687295c530@rb1.xiaofeixia.cyou:2052?security=tls&insecure=1&sni=rb1.xiaofeixia.cyou#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
