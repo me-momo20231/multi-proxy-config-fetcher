@@ -6,13 +6,15 @@
 
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#@meli_proxyy
 
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=tls&headerType=none&type=tcp#@meli_proxyy
 
-trojan://3763495894587285504@enabling-cat.goat627.mom:443/?type=tcp&security=tls#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://3767107462583558144@194.62.96.160:443/?type=tcp&security=tls&sni=subtle-seahorse.treefrog761.one&allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
+trojan://3767107462583558144@5.189.203.50:443?security=tls&sni=modest-bulldog.goat627.mom&type=tcp#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://%2BMtyf%2Fh3%2FH2p5dhUcC0ajl7debJINLD%2FBhb2EeQLDVc%3D@188.114.99.119:8854?address=172.16.0.2%2F32&reserved=176%2C154%2C66&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
+
+wireguard://%2BMtyf%2Fh3%2FH2p5dhUcC0ajl7debJINLD%2FBhb2EeQLDVc%3D@188.114.99.119:8854?address=172.16.0.2%2F32&reserved=176%2C154%2C66&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://0LuS60Qoscfs3T%2B9oiOhRQTKok1DawDnH%2B%2Ffs2ZU0VQ%3D@188.114.98.198:908?address=172.16.0.2%2F32&reserved=107%2C145%2C107&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
 
@@ -20,9 +22,13 @@ wireguard://2J3KTdEbiESohRi3pjViCZm3px4Z%2FqQ%2FCTtTXZBB%2Bkc%3D@188.114.99.214:
 
 wireguard://2J3KTdEbiESohRi3pjViCZm3px4Z%2FqQ%2FCTtTXZBB%2Bkc%3D@188.114.99.214:1074?address=172.16.0.2%2F32&reserved=96%2C66%2C72&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+wireguard://8D2YJx2qmqCAZXZeOGDNIZtmiJi%2F7RVlz7CifbFdL20%3D@[2606:4700:d0::643a:10ec:5fbd:7d47]:8854?address=172.16.0.2%2F58%2C2606%3A4700%3A110%3A88ba%3A1db5%3Ae69f%3A41a%3A43f6%2F128&presharedkey=&reserved=93%2C3%2C51&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 wireguard://KE6KyNDwmV01tQ5A%2BXMXdbhOIpVLX%2BhGCJuW0ZUtwlQ%3D@188.114.98.178:1002?address=172.16.0.2%2F32&reserved=247%2C104%2C1&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://MOtCnfxkT%2FGhKuCtviW4c%2Bcg8UbsDfr2NCnAIMPTR2w%3D@zula.ir:880?address=172.16.0.2%2F32&reserved=171%2C89%2C66&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
+
+wireguard://MOtCnfxkT%2FGhKuCtviW4c%2Bcg8UbsDfr2NCnAIMPTR2w%3D@zula.ir:880?address=172.16.0.2%2F32&reserved=171%2C89%2C66&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://QIEWjD8H6F4%2B5GrGZdjdT5SnIKJo5mZ%2Bv0joMO4SPm4%3D@188.114.99.20:500?address=172.16.0.2%2F32&reserved=228%2C189%2C196&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
 
@@ -38,17 +44,11 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.143:443?path=%2F%3Fed%3
 
 vless://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=holze.gt-ov.com#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
-vless://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=almze.gt-ov.com&fp=chrome&type=ws&sni=almze.gt-ov.com#@meli_proxyy
-
-vless://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=holze.gt-ov.com&fp=chrome&type=ws&sni=holze.gt-ov.com#@meli_proxyy
-
 vless://0c67cf90-d6a0-4dd9-a0ac-554213a0fae4@3.236.196.232:8080?mode=auto&path=%2F%3FJOKERRVPNTelegram%20%3A&security=reality&encryption=none&pbk=z1h2erkFZJEDxsjAVDtDcHnkM9mz1OzzpCqbSECxbwQ&host=api.openai.com&fp=chrome&spx=%2FJOin.%40JOKERRVPN&type=xhttp&sni=api.openai.com&sid=dd0ade38b3342a#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
 vless://0e1b7a8a-2a79-458a-ac0e-8a7fd960cd04@95.181.162.108:8880?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
 vless://0ee358fe-8d55-445b-89d7-4ed76d58a515@151.101.194.165:80?path=/Telegram-ID-@ELiV2RAY--Telegram-ID-@ELiV2RAY--Telegram-ID-@ELiV2RAY&ed=2560&host=JoinBede-ELiV2-RAY.ir&type=ws#@meli_proxyy
-
-vless://10cc8b4c-6820-40f8-a017-986a3b4f65de@www.speedtest.net:2082?path=yakuzaytarmin%3Fed%3D2082&security=none&encryption=none&host=yakuasubcha.poqpoq.shop.&type=httpupgrade#@meli_proxyy
 
 vless://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:443?security=none&encryption=none&host=playstation.com&headerType=http&type=tcp#@meli_proxyy
 
@@ -81,6 +81,12 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.74:3237?security=none&e
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.74:3237?security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
 vless://1db73a12-cbcd-44c6-82ab-661ec107c20d@fast.gambronservice.site:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=game.baziha0098.ir#@meli_proxyy
+
+vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2F%23Telegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=magdl.ir&fp=chrome&type=ws&sni=anchor.fm#@meli_proxyy
+
+vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2F&security=tls&encryption=none&host=magdl.ir&type=ws&sni=anchor.fm#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+
+vless://27f58a77-fdc3-4b9e-b123-cf7686033832@188.114.97.9:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
 ss://77-977-9Hu-_vU0bf--_vXnvv71W77-9b08177-977-9d33vv70c77-9fe-_vTrvv73vv70e77-9TRt_77-9ee-_vVbvv71vTzXvv73vv713fe-_vRzvv71977-9@108.61.177.251:443#%F0%9F%87%AB%F0%9F%87%B7%20FR-108.61.177.251%3A443 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -220,7 +226,7 @@ vmess://ewogICAgImFkZCI6ICJwb3J0bGFuZC44OTk5OTQueHl6IiwKICAgICJhaWQiOiAwLAogICAg
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjIxMi4xOTIuMTIuNzAiLCAicG9ydCI6ICIxNzkyNiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWNiOGM5ZjQtN2Q1NS00OGNmLTk2Y2EtNTc5ZGI0M2NhYThkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 
-vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi42NC4zMi4yMTciLCJwb3J0IjoiMjA4NyIsInR5cGUiOiJndW4iLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJuZXQiOiJncnBjIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6InRscyIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=
+vmess://eyJ2IjoiMiIsImFkZCI6IjIwLjIxMy4yMC4xODUiLCJwb3J0IjoiMTc3MTgiLCJpZCI6ImMyMDZlMDIyLTM0YzYtNGZlMy1hMjMyLWI5YzA3YmEzMTY1ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=
 
-vmess://eyJ2IjoiMiIsImFkZCI6Ijk0LjE4Mi4xNTAuMjMxIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjJiN2NlMWQyLTAzNzItNDEwNC1hYTA2LWY3ZDk5OWYyNmUxZCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTA3LjI0Ny4yMTkiLCJwb3J0Ijo0OTAxMywiaWQiOiIzNjQzNDE0Yi04MDIyLTQ3OWItYjBhOC1hZDU1NmU3NDdkZmMiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIiLCJhdXRob3JpdHkiOiIifQ==
 
