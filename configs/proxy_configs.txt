@@ -6,8 +6,6 @@
 
 trojan://3747000103274291200@43.202.142.243:443/?type=tcp&security=tls&sni=humble-rodent.treefrog761.one&allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://3747000103274291200@better-crappie.treefrog761.one:443?security=tls&sni=better-crappie.treefrog761.one&fp=chrome&type=tcp#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://3747000103274291200@model-fly.adder289.quest:443?security=tls&headerType=none&type=tcp&sni=model-fly.adder289.quest#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
 trojan://3747000103274291200@model-fly.adder289.quest:443?security=tls&headerType=none&type=tcp&sni=model-fly.adder289.quest#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -22,19 +20,25 @@ trojan://3bcd9e33-8377-4b32-af33-217158577ff3@www.tiktok.com.jp3.viefast.net:443
 
 trojan://43e5eeacbad3032bfe4c25a2f011b6b7@104.251.227.182:443?security=tls&headerType=none&type=tcp&sni=hezijiasuqi.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
+trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.14.85:443?path=%2FTelegram%40FreeV2Alpha&security=tls&host=md1.safecdn.site&type=ws&sni=md1.safecdn.site#@meli_proxyy
+
 wireguard://CJzSNgkkrGK2bZSSttiB0IYG43bzb%2BfJ9M0%2BiOKJCFM%3D@188.114.99.118:942?wnoise=quic&address=172.16.0.2%2F32&reserved=156%2C217%2C168&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://CMgUnOEncWTPonKUGXU%2BPP1fn9jhpZwbGsp2wopd10E%3D@188.114.97.253:908?address=172.16.0.2%2F32&reserved=69%2C117%2C96&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
 
 wireguard://CMgUnOEncWTPonKUGXU%2BPP1fn9jhpZwbGsp2wopd10E%3D@188.114.97.253:908?address=172.16.0.2%2F32&reserved=69%2C117%2C96&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+wireguard://CMgUnOEncWTPonKUGXU%2BPP1fn9jhpZwbGsp2wopd10E%3D@188.114.97.253:908?wnoise=quic&address=172.16.0.2%2F32&reserved=69%2C117%2C96&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 wireguard://EOg5gRm1wqcWF5rVOnn6lA%2BJrL2dHFpZ1UOObrF%2FelU%3D@188.114.97.61:903?address=172.16.0.2%2F32&reserved=200%2C94%2C100&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
 
 wireguard://EOg5gRm1wqcWF5rVOnn6lA%2BJrL2dHFpZ1UOObrF%2FelU%3D@188.114.97.61:903?address=172.16.0.2%2F32&reserved=200%2C94%2C100&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-wireguard://EOg5gRm1wqcWF5rVOnn6lA%2BJrL2dHFpZ1UOObrF%2FelU%3D@188.114.97.61:903?wnoise=quic&address=172.16.0.2%2F32&reserved=200%2C94%2C100&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 wireguard://IKty6FLNIMuaLr5p2cji3R93sVZt8gJJPPq1YJoWPnE%3D@188.114.96.100:880?address=172.16.0.2%2F32&reserved=144%2C165%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
+
+wireguard://UMuQERxp1Ke%2BzFomH7oS1sJ8AvuzGFC2ZB6hdkNdI2o%3D@188.114.99.121:946?address=172.16.0.2%2F32&reserved=100%2C9%2C238&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon8
+
+wireguard://WKP4e8mgGtoicewv%2FPlvSTp%2FbmY5d8F7Q%2B%2FK46KhhnE%3D@188.114.96.217:1002?address=172.16.0.2%2F32&reserved=152%2C113%2C26&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
 
 vless://0c04dd79-71ad-475e-9a22-8fe625afccbb@www.visa.com:8080?path=%2Ftelegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
@@ -174,15 +178,15 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.49.119:2375#%F0%9F%87%BA%F0%9F
 
 vmess://ewogICAgImFkZCI6ICIzOC4xNC4xMDcuMjI2IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMzQwNDM0MTMwMDMyIiwKICAgICJwb3J0IjogMzgwMDMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0zOC4xNC4xMDcuMjI2LTU1OTUiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
-vmess://ewogICAgImFkZCI6ICJzMS5kYi1saW5rMDEudG9wIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTAwLTc5LTI4LTI2LnMxLmRiLWxpbmswMS50b3AiLAogICAgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42NC41NS4yMDMiLAogICAgInBvcnQiOiA4MDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTYuMTU1LjEwLTA4NDMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyBJTi00LjI0MC43My41NToxNDExOCIsICJhZGQiOiAiNC4yNDAuNzMuNTUiLCAicG9ydCI6IDE0MTE4LCAiaWQiOiAiZDUxM2JmYjItYjdjMi00ZGM2LWEzZjktNTUxNDVmMTk4NzA1IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBTRy0xNTQuMjYuMTM3LjQyOjQ0MTA0IiwgImFkZCI6ICIxNTQuMjYuMTM3LjQyIiwgInBvcnQiOiA0NDEwNCwgImlkIjogImU5OTMzYTRjLWU1NmUtNDU4Yy1iY2Y0LTljYjM4NzViYmE1NSIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
 vmess://eyJ2IjoiMiIsInBzIjoiRC1CTFVFLTg2OTkiLCJhZGQiOiIxMzguMTk3LjkuMTE1IiwicG9ydCI6Ijg4ODEiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoibWloYW53ZWJob3N0LmNvbSIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoiWUVFWTU3MTIiLCJhZGQiOiIxNzAuMTg3LjE2My44OSIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1paGFud2ViaG9zdC5jb20iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTU0LjI2LjEzNy40MiIsInBvcnQiOjQ0MTA0LCJpZCI6ImU5OTMzYTRjLWU1NmUtNDU4Yy1iY2Y0LTljYjM4NzViYmE1NSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcwLjE4Ny4xNjMuODkiLCJwb3J0IjoiODg4MSIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJtaWhhbndlYmhvc3QuY29tIiwicGF0aCI6IlwvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIifQ==
 
 hysteria2://0e57e0a8-939e-478d-8513-63b70e961e21@weilai-nl.sanguayun.com:443?security=tls&insecure=0&mport=13001-13999&sni=weilai-nl.sanguayun.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
