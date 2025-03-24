@@ -6,9 +6,9 @@
 
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#All-%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80
 
-trojan://633ac2fe-e080-4119-ac96-2abb6c96a5a6@209.38.134.215:443?security=tls&headerType=none&type=tcp&sni=209.38.134.215#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://Pooria@104.17.147.22:80?path=%2FtrLwW5jiTelegramFreeV2Alpha%3Fed%3D2560&security=none&host=redfree8w.pooriam.ir&type=ws#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://633ac2fe-e080-4119-ac96-2abb6c96a5a6@209.38.134.215:443?security=tls&headerType=none&type=tcp&sni=209.38.134.215#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://ebhZ11qYng@51.195.254.75:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&fp=random&type=tcp&sni=uk-02.allhubb.info#IR-%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80حمایت ها فراموش نشه @proxy_shadosocks
 
