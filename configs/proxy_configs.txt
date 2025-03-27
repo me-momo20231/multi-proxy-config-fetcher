@@ -6,19 +6,21 @@
 
 trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@ru2.asc-sam.ir:8443?type=tcp&path=%2F&host=ru2.asc-sam.ir&headerType=http&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#@meli_proxyy
 
-trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@ru2.asc-sam.ir:8443?type=tcp&path=%2F&host=ru2.asc-sam.ir&headerType=http&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
-trojan://262AMB0f5GtOJqcMN1eoEB9G@bhx3.goldaccess.xyz:31645#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#All-%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80
 
 trojan://6040a753-e35b-4384-8713-96f3c639b621@kju84.890602.xyz:443?path=%2FWxWOWO1YA9bs2HOmaeWimvT3&security=tls&alpn=http%2F1.1&host=kju84.890602.xyz&type=ws&sni=kju84.890602.XYZ#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
+trojan://74260704627805900@on-roughy.shiner427.skin:443?security=tls&headerType=none&type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose02.852224.ggff.net:443/?type=ws&host=sanjose02.852224.ggff.net&path=%2FT5yZBrY2Qkg2cThJQeJb&security=tls&sni=sanjose02.852224.ggff.net&alpn=http%2F1.1&fp=chrome#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@usa-sanjose-one.890614.filegear-sg.me:443/?type=ws&host=usa-sanjose-one.890614.filegear-sg.me&path=%2FT5yZBrY2Qkg2cThJQeJb&security=tls&sni=usa-sanjose-one.890614.filegear-sg.me&alpn=http%2F1.1&fp=chrome#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://NEHZp72yf2@dr-ping.ir:443?type=tcp&headerType=http&host=Zula.ir&path=/DrPing&security=tls&fp=randomized&sni=dr-ping.ir&alpn=h2,h3,http/1.1#@meli_proxyy
 
 trojan://ebhZ11qYng@51.195.254.75:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&fp=random&type=tcp&sni=uk-02.allhubb.info#IR-%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80حمایت ها فراموش نشه @proxy_shadosocks
+
+trojan://telegram-id-directvpn@13.36.99.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.37.189.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
@@ -51,8 +53,6 @@ trojan://telegram-id-directvpn@34.199.59.221:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@34.253.87.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@51.20.11.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@51.20.240.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 wireguard://%2BHgdLEoFZ43silcOlkTiWpVKQtUwO52%2BGczqrprbh0k%3D@188.114.96.212:955?address=172.16.0.2%2F32&reserved=81%2C235%2C239&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
 
@@ -136,6 +136,10 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.156:80?path=Telegram%F0%
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.208:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.60:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.99:80?path=Telegram%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#MCI%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Y2NmM2VkMjVhZWQzYWQ5QDE1LjIwNC4yMjguMTA6MTEwMjY=#@meli_proxyy
@@ -202,7 +206,7 @@ vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNh
 
 vmess://eyJhZGQiOiAiOTUuMTY0LjQ0Ljc4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzODUzNTAzMS1jY2MzLTRhOTQtYmQ1NC1jNjg4MDY0ODY0MDYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgInBvcnQiOiAiMjA1MiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtTkEgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIElFLTk1LjE2NC40NC43ODoyMDUyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 
-vmess://eyJhZGQiOiI1MS43Ny4yMC4xMzciLCJhaWQiOjAsImhvc3QiOiJ0aWxlYmFuaS5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiI1Ljc1LjIwMC4xNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJzb2Z0OTguaXIiLCJpZCI6IjhiZWZlNWVhLWYwYmMtNGEzMS04N2Q1LTNhNThhNTc5ZmU3ZCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI1MDk1NCIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 hysteria2://867f512f-93d2-4344-853c-50965de9b103@shy23.zqjc.cloud:55215?security=tls&insecure=0&sni=shy23.zqjc.cloud#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA✅️تا توان گریختن نیست، خدا را شکریستتنها ایدی خرید کانفیگ اختصاصی : @V2rayvlessbot ☑️پشتیبانی: @bilichilii_back ✅️چنل ها:@VmessProtocol@V2rayProtocolتمامی رباتهای که در اخر چنل توسط تبلیغات تلگرام قرار داده میشوند دزد و کلاه بردار هستن مواظب باشید
 
