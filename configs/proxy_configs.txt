@@ -28,7 +28,7 @@ trojan://telegram-id-directvpn@13.38.225.90:22222?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@13.49.17.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@13.53.247.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+trojan://telegram-id-directvpn@13.61.245.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@16.170.136.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
@@ -140,13 +140,13 @@ vmess://ewogICAgImFkZCI6ICIxNDYuMTkuMTY4LjE2MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 
 vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk3LjYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwKICAgICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xODguMTE0Ljk3LjYtNzc2NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiCn0=
 
+vmess://ewogICAgImFkZCI6ICJ3aW5kb3dzLm9uZXR3b3RocmVlMTIzLmlyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAid2luZG93cy5vbmV0d290aHJlZTEyMy5pciIsCiAgICAiaWQiOiAiYjVhZjc3OTEtMjgwMS00MDhjLTg4YTEtMmQzYmI3MjQwYmIyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL1hvdDhleDhyIiwKICAgICJwb3J0IjogODQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjQ0LjE4NS0yMjQ5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWEgU0UtMTY5LjE1MC4yMDguODM6MTgwMDAiLCAiYWRkIjogIjE2OS4xNTAuMjA4LjgzIiwgInBvcnQiOiAxODAwMCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTM3LjEzMS41Mi4xNzMiLCJwb3J0IjoiMjM0NTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTc1MDQ4MmItNGJlNS00MWI5LTk3MTQtMjIyNTM2NDk4ZTlkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6InBoeC1wbHVzLTFkZG5zLmZhZm9yZXguZXUub3JnIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoid3d3LnNwZWVkdGVzdC5uZXQiLCJwb3J0IjoiNDQzIiwiaWQiOiJiZmY2YzYyOC01OGEyLTQ5OGUtYmU1My0wNzkzYzUzNmFmZWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IlwvZGFzaGJvYXJkP2VkPTI1NjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhcGk0LndhbHRvbndlYi5pciIsImFscG4iOiJodHRwXC8xLjEiLCJmcCI6ImNocm9tZSJ9
-
-vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjIwOTUiLCJwcyI6IkBtZWxpX3Byb3h5eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 
 hysteria2://867f512f-93d2-4344-853c-50965de9b103@shy23.zqjc.cloud:55215?security=tls&insecure=0&sni=shy23.zqjc.cloud#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA✅️تا توان گریختن نیست، خدا را شکریستتنها ایدی خرید کانفیگ اختصاصی : @V2rayvlessbot ☑️پشتیبانی: @bilichilii_back ✅️چنل ها:@VmessProtocol@V2rayProtocolتمامی رباتهای که در اخر چنل توسط تبلیغات تلگرام قرار داده میشوند دزد و کلاه بردار هستن مواظب باشید
 
