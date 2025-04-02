@@ -36,13 +36,13 @@ trojan://telegram-id-directvpn@18.158.89.167:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@3.10.2.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@3.217.86.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@34.251.31.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.181.162.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.181.179.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@50.17.121.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@52.28.5.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
@@ -200,7 +200,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAz
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMy5pbGdtLnNhaW50LnlkbnMuZXUiLCJwb3J0IjoiNDg3MTIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJyaWNrLnNhaW50LnlkbnMuZXUiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzguMTA5LjIyOC4xNjMiLCJwb3J0IjoyNzA2MCwiaWQiOiI3MWRhNDBiOS1jMjBlLTRhNmUtODBjYi1jODE0MWY2OTM1MjYiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
+vmess://eyJhZGQiOiAiMTA0LjE5LjE1MC4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsICJpZCI6ICI5NGYzMzJiMC1jNWQzLTQ1MzEtYTFkNi02ZTYzNThjYzZjNzIiLCAibmV0IjogImh0dHB1cGdyYWRlIiwgInBhdGgiOiAiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlE9PT9lZD0yNTYwIiwgInBvcnQiOiAiMjA5NSIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tSFRUUFVQR1JBREUtTkEgXHVkODNjXHVkZmY0XHUyMDBkXHUyNjIwXHVmZTBmIE5BLTEwNC4xOS4xNTAuMTA6MjA5NSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
 hysteria2://b099dc75-799b-4c23-b241-48a797259359@146.56.102.76:443?security=tls&insecure=1&mport=22000-27000&sni=kr1.xiaoliyu.cyou#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
