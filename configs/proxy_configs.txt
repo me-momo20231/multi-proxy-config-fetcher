@@ -26,6 +26,8 @@ trojan://telegram-id-directvpn@13.61.199.133:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@15.188.38.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@15.237.33.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@16.170.181.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@16.171.180.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
@@ -36,9 +38,7 @@ trojan://telegram-id-directvpn@35.169.150.100:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-directvpn@35.176.3.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@35.180.177.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@52.47.60.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+trojan://telegram-id-directvpn@51.44.111.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@52.56.107.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
@@ -52,27 +52,27 @@ trojan://telegram-id-privatevpns@13.36.121.2:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@13.43.70.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@15.188.241.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@16.16.60.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-wireguard://6DFuoktxCZZvasYbBoFRWNeWtTVamYLVuA%2Fkzh37lEw%3D@188.114.96.4:1002?address=172.16.0.2%2F32&reserved=160%2C131%2C108&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
+wireguard://6DFuoktxCZZvasYbBoFRWNeWtTVamYLVuA%2Fkzh37lEw%3D@188.114.96.4:1002?address=172.16.0.2%2F32&reserved=160%2C131%2C108&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon5
 
-wireguard://8JHDr1xRE8p0yxxn9gqtTIonz99IbViGIs68bjN91m0%3D@188.114.96.228:1018?address=172.16.0.2%2F32&reserved=156%2C152%2C235&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
+wireguard://8JHDr1xRE8p0yxxn9gqtTIonz99IbViGIs68bjN91m0%3D@188.114.96.228:1018?address=172.16.0.2%2F32&reserved=156%2C152%2C235&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
 
-wireguard://8PfPOrnIMlnmkcyeohkPwyaqcZk6oWlDzLiyiylJAX4%3D@188.114.99.152:908?address=172.16.0.2%2F32&reserved=230%2C26%2C114&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
+wireguard://8PfPOrnIMlnmkcyeohkPwyaqcZk6oWlDzLiyiylJAX4%3D@188.114.99.152:908?address=172.16.0.2%2F32&reserved=230%2C26%2C114&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
 
-wireguard://EBZvbBNcKK2va4%2F5qum9b%2BW66oKzhQz4HNxWySJc6EY%3D@188.114.99.176:928?address=172.16.0.2%2F32&reserved=34%2C125%2C85&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon5
+wireguard://EBZvbBNcKK2va4%2F5qum9b%2BW66oKzhQz4HNxWySJc6EY%3D@188.114.99.176:928?address=172.16.0.2%2F32&reserved=34%2C125%2C85&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
 
-wireguard://QE0BKzD2Al3OKE3RIURWclDzpr6uW4Xe0n0hcNsL4HU%3D@188.114.99.140:945?address=172.16.0.2%2F32&reserved=103%2C255%2C76&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=30&wnoisedelay=1&wpayloadsize=5-10#Anon7
+wireguard://GC0HFNgKMuRxeZMbbnlj0JNMBpWZz2uow96H7sGHd1U%3D@188.114.97.220:878?address=172.16.0.2%2F32&reserved=203%2C12%2C10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
 
-wireguard://QKln8pD%2FmWOZ1uUL1uq9Hyz%2FRGcLkOZDqlttbiK2JHU%3D@188.114.97.212:945?address=172.16.0.2%2F32&reserved=250%2C140%2C153&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
+wireguard://QE0BKzD2Al3OKE3RIURWclDzpr6uW4Xe0n0hcNsL4HU%3D@188.114.99.140:945?address=172.16.0.2%2F32&reserved=103%2C255%2C76&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=30&wnoisedelay=1&wpayloadsize=5-10#Anon6
 
-wireguard://SHEjTo7Glurd3E4T685FhRL10Tdp5WMXELrBvCS1CUg%3D@188.114.98.58:946?address=172.16.0.2%2F32&reserved=39%2C215%2C160&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
+wireguard://SHEjTo7Glurd3E4T685FhRL10Tdp5WMXELrBvCS1CUg%3D@188.114.98.58:946?address=172.16.0.2%2F32&reserved=39%2C215%2C160&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon8
 
-wireguard://SPXf0WYwcVE8JmMgodo3LGBxmUZoCyz7ZOEh4cI0g24%3D@188.114.96.14:987?address=172.16.0.2%2F32&reserved=223%2C213%2C39&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon8
+wireguard://SPXf0WYwcVE8JmMgodo3LGBxmUZoCyz7ZOEh4cI0g24%3D@188.114.96.14:987?address=172.16.0.2%2F32&reserved=223%2C213%2C39&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
 
-wireguard://WMBPFhHsneESdChjA0vS9T04XXZMAljOmX9JdVf%2Bjls%3D@188.114.98.129:955?address=172.16.0.2%2F32&reserved=95%2C77%2C72&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
+wireguard://WMBPFhHsneESdChjA0vS9T04XXZMAljOmX9JdVf%2Bjls%3D@188.114.98.129:955?address=172.16.0.2%2F32&reserved=95%2C77%2C72&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
 
-wireguard://aO29KE2h5VuC%2FCIhdB7gdy%2FJc%2FRM%2Ff3XthOmkWlGG1c%3D@188.114.98.19:987?address=172.16.0.2%2F32&reserved=188%2C6%2C100&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
+wireguard://aO29KE2h5VuC%2FCIhdB7gdy%2FJc%2FRM%2Ff3XthOmkWlGG1c%3D@188.114.98.19:987?address=172.16.0.2%2F32&reserved=188%2C6%2C100&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
 
 vless://--V2RAXX@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#@meli_proxyy
 
@@ -194,7 +194,7 @@ vmess://ewogICAgImFkZCI6ICIxNTIuNjcuMjUxLjIzMiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 
 vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0yMy4xNjIuMjAwLjIyNy03NDQ3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDimqHvuI8gRGFpbHlWMnJ5IiwKICAiYWRkIjogIjk4LjcwLjQ5LjEwNyIsCiAgInBvcnQiOiA0MjQ3MywKICAiaWQiOiAiNjNiNWI3NmQtOTNmNC00NTY4LWE3NjQtYzRiOTY3NDcyOTYwIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=Daily
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn42AIERhaWx5VjJyeSIsCiAgImFkZCI6ICI0Ni4yNTAuMjUzLjIzNCIsCiAgInBvcnQiOiAyODg3MiwKICAiaWQiOiAiNzYyYjM5MjMtNTg4NS00YzVmLTg4NmYtZTYyNzg4NTEyMzM4IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=Daily
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyBGUi0zOC4xMDkuMjI4LjE2MzoyNzA2MCIsICJhZGQiOiAiMzguMTA5LjIyOC4xNjMiLCAicG9ydCI6IDI3MDYwLCAiaWQiOiAiNzFkYTQwYjktYzIwZS00YTZlLTgwY2ItYzgxNDFmNjkzNTI2IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIn0=
 
@@ -204,7 +204,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRm
 
 vmess://eyJ2IjoiMiIsInBzIjoiRC1GQUlUSC02MjI3IiwiYWRkIjoiMTY3LjcxLjI1MC4xMTUiLCJwb3J0IjoiODg4MSIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJtb2kuaXIiLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAxLjk5LjkxLjIzNCIsInBvcnQiOjM2NzAwLCJpZCI6IjEyN2ZmNDNjLTE4NTEtNGIyZC1iYThjLTZhZmJhMjFlYzA0ZCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
-
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAzLjY3Ljc5LjE1NyIsInBvcnQiOjQ1MzY1LCJpZCI6IjdkMmE0ZTY2LTE1MmMtNDlmNS05ZmY1LWMxOWE4MzZlOGM4OSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcyLjk5LjE5MC4yNDkiLCJwb3J0IjoyNTM2NiwiaWQiOiI1MTI1OWUxYy0yYzM3LTQxNWMtYjFlMS1iNzkxYTY0YjMzODgiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
 
