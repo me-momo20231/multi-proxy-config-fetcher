@@ -12,8 +12,6 @@ trojan://ebhZ11qYng@51.195.254.75:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&he
 
 trojan://telegram-id-directvpn@13.41.51.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@13.41.51.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://telegram-id-directvpn@13.49.219.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.49.84.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
@@ -53,6 +51,8 @@ trojan://telegram-id-directvpn@52.16.255.13:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@54.246.60.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@63.177.179.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-privatevpns@13.53.81.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 wireguard://6DFuoktxCZZvasYbBoFRWNeWtTVamYLVuA%2Fkzh37lEw%3D@188.114.96.4:1002?address=172.16.0.2%2F32&reserved=160%2C131%2C108&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
 
@@ -212,11 +212,11 @@ vmess://ewogICAgImFkZCI6ICIxMDQuMjEuOTQuMTY4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 
 vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk3Ljc5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsCiAgICAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTg4LjExNC45Ny43OS03NTE3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIKfQ==
 
-vmess://ewogICAgImFkZCI6ICIzOC4xNC4xMDcuMjI1IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogInd3dy4yMzE3OTc1My54eXoiLAogICAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9wYXRoLzE4MTcyMTI3MjExNCIsCiAgICAicG9ydCI6IDM4MDAzLAogICAgInBzIjogIvCfh7rwn4e4VVMtMzguMTQuMTA3LjIyNS03NDk4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-
 vmess://ewogICAgImFkZCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsCiAgICAiaWQiOiAiOTE0NTg0ZWUtMzUxNS00NmFjLWEwOWQtNDY3N2EyZTlkYzlhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4zMi4xLTA3NjQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIgp9
 
 vmess://ewogICAgImFkZCI6ICJsb24xLWRhc2guODkwNjk5Lnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxvbjEtZGFzaC44OTA2OTkueHl6IiwKICAgICJpZCI6ICI0MTk2M2U2Yi0yOTVkLTQ1YTAtYjZjYy0zOGZiZGQzZTNmNzUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbG9uMS1zdWIuODkwNjk5Lnh5eiIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4xNi4xLTU2MTYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJsb24xLXN1Yi44OTA2OTkueHl6Igp9
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNS4yMDQuMjQ4LjkyOjMwNTYyIiwgImFkZCI6ICIxNS4yMDQuMjQ4LjkyIiwgInBvcnQiOiAzMDU2MiwgImlkIjogIjgyNDY2NzE1LTZhNTgtNDA0Ni1hMzYzLWEwZDE4ZTViMmFiNCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAxLjk5LjkxLjIzNCIsInBvcnQiOjM2NzAwLCJpZCI6IjEyN2ZmNDNjLTE4NTEtNGIyZC1iYThjLTZhZmJhMjFlYzA0ZCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
 
