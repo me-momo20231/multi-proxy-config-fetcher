@@ -6,6 +6,8 @@
 
 trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?path=%2FDmby2AKiZKvMo1YauoQwY5&security=tls&alpn=http%2F1.1&host=t.taipei108.dpdns.org&fp=chrome&type=ws&sni=T.taipEi108.Dpdns.Org#@meli_prozyy
 
+trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?path=%2FDmby2AKiZKvMo1YauoQwY5&security=tls&alpn=http%2F1.1&host=t.taipei108.dpdns.org&fp=chrome&type=ws&sni=T.taipEi108.Dpdns.Org#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@104.21.32.242:443?path=%2Fl6lvY4hFZriQDBimbKYmPIggy&security=tls&alpn=http%2F1.1&host=b9uujhyt.890604.dpdns.org&fp=chrome&type=ws&sni=b9uujhyt.890604.dpdns.org#@meli_prozyy
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -55,8 +57,6 @@ trojan://telegram-id-privatevpns@18.184.146.156:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@3.126.195.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.76.52.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.157.224.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 wireguard://%2BEpPDzwl%2FLY9L5NgZBTTMN1FHiDhMacLs6I8LvmqQWs%3D@188.114.98.173:946?address=172.16.0.2%2F32&reserved=68%2C81%2C39&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
 
@@ -188,6 +188,8 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgMTJ85pel5pysNHxAcmlwYW9qaWVkaWFuIiwiYWRk
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgMTF88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMTIwLjE5OC43MS4yMTYiLCJwb3J0IjoiMzU5MjEiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgMTJ86aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMTIwLjE5OC43MS4yMTYiLCJwb3J0IjoiMzU5MjEiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX+e+juWbvSIsImFkZCI6IjE0MS4xOTMuMjEzLjE2NyIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImMyMWI5NzJhLWJjOTItNGY4Yy04ZTZhLTY4NjgwMDFmN2Y4OCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InVzdG91Y2pqbmlkMThzajZ1cy5sb3ZlYmFpcGlhby5jb20iLCJ0bHMiOiIifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6IjEyMC4yMzQuMTAyLjIyOSIsInBvcnQiOiI0MjE3NCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
@@ -195,6 +197,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6IjEyMC4yMzQuMTAyLjIyOSIsInBvcnQi
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIiLCJob3N0IjoiaGsyLmxyemR4LnVrIn0=
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDQuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE5LjMyLjAiLCJwb3J0Ijo0NDMsImlkIjoiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWl2aWRlby5jZmQiLCJwYXRoIjoiXC9saW5rd3MiLCJob3N0IjoieG1pdmlkZW8uY2ZkIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDQuOU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoid3d3LnduMDMuY2MiLCJwb3J0Ijo4MCwiaWQiOiIyZjM4Zjg0OC1hODk5LTRjODctOTgwNy0yMDdhNDE2MTVlM2MiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6IiIsInBhdGgiOiJcL3JvbmdzZXZlbj9lZD0yMDQ4IiwiaG9zdCI6InVzLmZyZWV5eWRzLmRwZG5zLm9yZyJ9
 
 vmess://eyJhZGQiOiAiMi41Ni4xMjYuMTAzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyZWIzZWUyYS03YmY4LTRiNTAtOWI5My0yZDQ4OWQyZjM0NTYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjMzNTc5IiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIENZLTIuNTYuMTI2LjEwMzozMzU3OSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 
@@ -210,13 +214,7 @@ vmess://eyJhZGQiOiJ4Y2YwMjkuZmFjYWkyMDI0LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAi
 
 vmess://eyJhZGQiOiJlZWRwMjU3YnVidTJ3ZWZ5MS5sb3ZlYmFpcGlhby5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5hcHBsZS5jb20iLCJpZCI6Ijg0MzdkNmU4LTg0OTItNGVmMi04ZWIzLTBlOWVlMjgxODgyZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9pcGhvbmUiLCJwb3J0IjoiODAiLCJwcyI6IihAVm1lc3NQcm90b2NvbCnYqNix2KfbjCDYrtix24zYryDZiCDYp9iq2LXYp9mEINiv2KfYptmF24wg2KzZiNuM2YYg2LTZiPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy05MTU4Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ5MjgyNTI0NS4xLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy0xNTA1Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExNDU3NjIzODIxMi4yLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
-
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0%3D@212.118.42.181:9260#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172/?POST%20#Server-1
 
@@ -239,6 +237,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUWlaejVLb3U2MkswQzFoM2lzYXpD@81.19.141.45:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE%3D@185.39.207.60:443#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE%3D@45.128.151.67:31348#@meli_proxyy
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplSk5iQjF6VUlGcjA2Qnd1a0oxRVQw@89.185.84.185:443#@meli_proxyy
 
 hysteria2://48173CB0-68B5-4CAB-9587-FB7CCDE206A7@tw2.ddns-link-b5.uk:3780?security=tls&insecure=0&sni=tw2.ddns-link-b5.uk#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
