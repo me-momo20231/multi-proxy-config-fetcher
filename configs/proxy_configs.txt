@@ -4,8 +4,6 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://AACY9aXaD0ZDyuyOBzD3Onl2ICw6anBE8l3SRl38RCSDpw7FpYzcRj7NeaFSpR5qx85Su@13.114.65.253:443?allowInsecure=0&sni=forward.meijireform.com#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://GWoPPdQpV5qH33pRobVkDw@net-1.toxi-speed.ir:2059?security=none&type=tcp&headerType=&path=&host=#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -148,8 +146,6 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security
 
 vless://25d85748-3160-4dec-bedb-1d018d5e6d5f@65.108.63.194:1717?security=none&encryption=none&host=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
-vless://279699c4-fa60-4076-9430-cd3ca31d2b06@www.speedtest.net:2086?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.f2.isvpy.ir.&type=httpupgrade#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
 vless://2ce4da59-28c7-41fa-9411-7dfde437c1cb@mainv2-ray.fast.hosting-ip.com:80?path=%2FTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%3Fed%3D2048&security=none&encryption=none&host=namehmain.com&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
 vless://2d41742e-5e10-4884-a9dd-4eeb5389f1f5@194.182.79.202:39049?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
@@ -176,6 +172,8 @@ vless://3857ea57-a459-45c5-a309-ad2bfa04d676@france.iranigamebaz.ir:600?security
 
 vless://3857ea57-a459-45c5-a309-ad2bfa04d676@germany.ggping.xyz:3993?path=%3Fed%3D2084&security=tls&encryption=none&fp=chrome&type=ws&sni=marzban.negintel.xyz#@meli_proxyy
 
+vless://3857ea57-a459-45c5-a309-ad2bfa04d676@uk.iranigamebaz.ir:17297?mode=auto&path=%2Funlimite&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=server.ir&fp=chrome&type=xhttp&sni=www.tgju.org&sid=85978f35bcf139b5#@meli_proxyy
+
 vmess://eyJ0bHMiOiJ0bHMiLCJwYXRoIjoiXC9saW5rdndzI1RFTEVHUkFNLU1BUkFNQkFTSElfTUFSQU1CQVNIST9lZD01MTIiLCJzY3kiOiJhdXRvIiwicHMiOiIoJTQwVm1lc3NQcm90b2NvbCklRDglQTglRDglQjElRDglQTclREIlOEMlMjAlRDglQUUlRDglQjElREIlOEMlRDglQUYlMjAlRDklODglMjAlRDglQTclRDglQUElRDglQjUlRDglQTclRDklODQlMjAlRDglQUYlRDglQTclRDglQTYlRDklODUlREIlOEMlMjAlRDglQUMlRDklODglREIlOEMlRDklODYlMjAlRDglQjQlRDklODglRjAlOUYlODclQTklRjAlOUYlODclQUElMjAiLCJhbHBuIjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwiYWRkIjoia2FwZWxsZW5nLmNvbSIsInBvcnQiOiI0NDMiLCJob3N0Ijoia2FwZWxsZW5nLmNvbSIsIm5ldCI6IndzIn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0NS4xNTkuNTEuMjA1IiwgInBvcnQiOiA0OTE2MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjUxZmFhY2NhLWI2ODYtNDdhYy1mODVhLTEwODhiMzVlN2Q2ZSJ9
@@ -194,6 +192,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuN01CXC9zXHUyNjljXHVmZTBmVGVsZWdy
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDIuM01CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcyLjY3LjE5OC4xODciLCJwb3J0Ijo0NDMsImlkIjoiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWl2aWRlby5jZmQiLCJwYXRoIjoiXC9saW5rd3MiLCJob3N0IjoieG1pdmlkZW8uY2ZkIn0=
 
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDMuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE3LjEzNy4xMjciLCJwb3J0Ijo0NDMsImlkIjoiNDdlYWIwZGUtOTdmOS00OWJlLWYyZjMtMmU0ZWIxNzI2OGU2IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoay5uaXNrYWtvd3NraS5nZ2ZmLm5ldCIsInBhdGgiOiJcL2FhIiwiaG9zdCI6ImhrLm5pc2tha293c2tpLmdnZmYubmV0In0=
+
 vmess://eyJhZGQiOiAiMTA0LjE5LjE1MC4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsICJpZCI6ICI5NGYzMzJiMC1jNWQzLTQ1MzEtYTFkNi02ZTYzNThjYzZjNzIiLCAibmV0IjogImh0dHB1cGdyYWRlIiwgInBhdGgiOiAiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlE9PT9lZD0yNTYwIiwgInBvcnQiOiAiMjA5NSIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tSFRUUFVQR1JBREUtTkEgXHVkODNjXHVkZmY0XHUyMDBkXHUyNjIwXHVmZTBmIE5BLTEwNC4xOS4xNTAuMTA6MjA5NSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
 vmess://eyJhZGQiOiI0My4xNTMuMTA0LjYyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk3Y2MwMzIzLWRlNTMtNGE3NS1kNjlkLWM2YWNkYWM1ZmRjNyIsIm5ldCI6IndzIiwicGF0aCI6Ii85N2NjMDMyMyIsInBvcnQiOiI0NTExMyIsInBzIjoiKEBWbWVzc1Byb3RvY29sKdio2LHYp9uMINiu2LHbjNivINmIINin2KrYtdin2YQg2K/Yp9im2YXbjCDYrNmI24zZhiDYtNmI8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
@@ -209,8 +209,6 @@ vmess://eyJhZGQiOiJ4Y2YwMjkuZmFjYWkyMDI0LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAi
 vmess://eyJhZGQiOiJlZWRwMjU3YnVidTJ3ZWZ5MS5sb3ZlYmFpcGlhby5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5hcHBsZS5jb20iLCJpZCI6Ijg0MzdkNmU4LTg0OTItNGVmMi04ZWIzLTBlOWVlMjgxODgyZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9pcGhvbmUiLCJwb3J0IjoiODAiLCJwcyI6IihAVm1lc3NQcm90b2NvbCnYqNix2KfbjCDYrtix24zYryDZiCDYp9iq2LXYp9mEINiv2KfYptmF24wg2KzZiNuM2YYg2LTZiPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy01MTE3Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ0MjAyNzMxODAuMS1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy0yNjU0Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTA0MjM4MTQ0MjI5LjItc2VuYXRvci5pbmZvIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0%3D@212.118.42.181:9260#@meli_proxyy
 
