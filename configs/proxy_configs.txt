@@ -10,19 +10,23 @@ trojan://136f49cf-b30c-4f9c-b7ce-4319ac87cdbe@little-frog-caa9v.ferawi7897.worke
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#@meli_proxyy
 
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=cache-giver-wife.stark-industries.solutions#@meli_proxyy
+
+trojan://telegram-id-directvpn@13.37.117.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.37.177.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.37.177.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-trojan://telegram-id-directvpn@13.37.177.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@15.236.243.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@15.237.225.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@15.237.243.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@15.237.243.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@15.237.90.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -50,13 +54,9 @@ trojan://telegram-id-directvpn@35.181.25.102:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@35.181.254.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@63.176.124.40:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@63.178.112.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-privatevpns@13.37.177.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@15.236.243.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@13.37.117.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 wireguard://4GeVhsBr3EAwjVU2PxbI6i2T8lM1ce2yTEHC1UK9BH0%3D@188.114.99.135:988?address=172.16.0.2%2F32&reserved=89%2C212%2C44&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
 
@@ -186,9 +186,9 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgMTR85Y+w5rm+djJ8QHJpcGFvamllZGlhbiIsImFk
 
 vmess://eyJ2IjoiMiIsInBzIjoiMSB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJzeXllaXlwdnB2IiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzeXllaXlwdnB2LTE2MjE5MjM5MjA0LmtoYXN0ZWhuYWJhc2hpLmNvbSIsInBhdGgiOiJcL292aFwvY2RuIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 
-vmess://eyJ2IjoiMiIsInBzIjoiMyB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJndm5za3h3aWtvIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd2bnNreHdpa28tNDUxNTAxNzQ3NC5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-
 vmess://eyJ2IjoiMiIsInBzIjoiNCB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJoeHNqanFtNzFhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imh4c2pqcW03MWEtNDUxNTAxNzQ3NS5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiNSB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJtczVmdTY2b2ZzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im1zNWZ1NjZvZnMtNDUxNTAxNzQ3Ny5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM%3D@107.191.63.241:30665#@meli_proxyy
 
@@ -199,6 +199,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edge
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-4
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN0JFSEVRZTY4TXd3aGd1c25aa0xGdlBUcHFuVTJVd3Fzdzl1U3oyV28zYlE1NnNmVVc0N1NpWnYxRkVUSnpTSmVwNHZ0d0p6TXhRWXJZeG9nRTlGR2JpMzFQVkdjWVM@185.5.38.111:55988#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20(14) Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@meli_proxyy
 
