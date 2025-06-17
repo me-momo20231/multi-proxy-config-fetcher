@@ -12,6 +12,8 @@ trojan://77G4g4apO0@51.20.38.227:1935?security=tls&headerType=none&type=tcp&sni=
 
 trojan://91565d37-e81a-479d-9cb0-9cb2d86cea2c@104.21.22.211:443?path=%2FfL1PjbUtiQpUI3nfCNbqCRr57Xa&security=tls&host=xxcddvfr.taipei108.dpdns.org&type=ws&sni=xxcddvfr.taipei108.dpdns.org#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+trojan://Aimer@67.226.221.104:80?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://Bm92516VO0@51.15.68.121:1935?security=tls&headerType=none&type=tcp&sni=x11-amsterdam-scaleway-v2-c88f0.devefun.org#@meli_proxyy
 
 trojan://Bm92516VO0@51.15.68.121:1935?security=tls&headerType=none&type=tcp&sni=x11-amsterdam-scaleway-v2-c88f0.devefun.org#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -22,11 +24,11 @@ trojan://Ng35283528@104.16.83.176:443?path=%2F%3Fed%3D2560&security=tls&host=c2.
 
 trojan://telegram-id-directvpn@13.36.8.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@13.36.8.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://telegram-id-directvpn@13.37.117.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.38.226.121:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@13.38.226.121:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-directvpn@15.236.243.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -49,8 +51,6 @@ trojan://telegram-id-directvpn@3.127.54.76:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@3.70.117.124:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@3.72.117.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@51.44.150.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 wireguard://4GeVhsBr3EAwjVU2PxbI6i2T8lM1ce2yTEHC1UK9BH0%3D@188.114.99.135:988?address=172.16.0.2%2F32&reserved=89%2C212%2C44&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
 
@@ -172,6 +172,18 @@ vless://5e2d1a2a-9570-4fd7-9d17-12d10bebd62d@78.157.44.169:5261?security=none&en
 
 vless://600f3494-61e5-42a4-8ed3-2d8b87ceef4a@trx.fxhub.ir:250?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85pel5pysdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiOC4yMTEuMTc1LjUzIiwgInBvcnQiOiAiMzY2NjgiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYjc5ODM3MmEtNTRjOC00NTk3LTk2OWUtOGIwMGQyZjc2YzA5IiwgInNuaSI6ICIifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA5IDMuOU1CL3MiLCJhZGQiOiI0NS4xMi4xMTQuMTUiLCJwb3J0IjoiMjA3NzkiLCJpZCI6IjlkYzViZmY4LWJjYmItNDcwMy1iMGZlLTRmOTFiYTUxNzQwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTA5In0=
+
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEzIDYuMU1CL3MiLCJhZGQiOiI0NS4xMi4xMzguNDciLCJwb3J0IjoiMjI4MzkiLCJpZCI6IjI4NThhNDA0LWQwY2EtNGQ2Ny04MGE2LWNlOGU5NWUzODNmZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExMyJ9
+
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzIiLCJhZGQiOiIxODUuMTA4LjEyOC4xMzciLCJwb3J0IjoiMzAwMDAiLCJpZCI6IjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Ind3dy4xNDYwMTE3Ni54eXoiLCJwYXRoIjoiL3BhdGgvMzAwMDIyMTEzMzI5IiwidGxzIjoidGxzIiwic25pIjoid3d3LjE0NjAxMTc2Lnh5eiIsInRlc3RfbmFtZSI6IjcyIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiMSB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJzeXllaXlwdnB2IiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzeXllaXlwdnB2LTE2MjE5MjM5MjA0LmtoYXN0ZWhuYWJhc2hpLmNvbSIsInBhdGgiOiJcL292aFwvY2RuIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiMiB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJrZTdoejM2ZXd6IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-2
@@ -191,18 +203,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Zm5WaGdLQk5YN0RhTjVzMjVvcHFM@78.129.140.11:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbENzQkdwc2VqSGRWQ01F@4.159.35.230:443#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRnhwUkE1REFpb0J1dnk0ZGxiVTlB@104.192.227.162:443#@meli_proxyy
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85pel5pysdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiOC4yMTEuMTc1LjUzIiwgInBvcnQiOiAiMzY2NjgiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYjc5ODM3MmEtNTRjOC00NTk3LTk2OWUtOGIwMGQyZjc2YzA5IiwgInNuaSI6ICIifQ==
-
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA5IDMuOU1CL3MiLCJhZGQiOiI0NS4xMi4xMTQuMTUiLCJwb3J0IjoiMjA3NzkiLCJpZCI6IjlkYzViZmY4LWJjYmItNDcwMy1iMGZlLTRmOTFiYTUxNzQwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTA5In0=
-
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEzIDYuMU1CL3MiLCJhZGQiOiI0NS4xMi4xMzguNDciLCJwb3J0IjoiMjI4MzkiLCJpZCI6IjI4NThhNDA0LWQwY2EtNGQ2Ny04MGE2LWNlOGU5NWUzODNmZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExMyJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzIiLCJhZGQiOiIxODUuMTA4LjEyOC4xMzciLCJwb3J0IjoiMzAwMDAiLCJpZCI6IjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Ind3dy4xNDYwMTE3Ni54eXoiLCJwYXRoIjoiL3BhdGgvMzAwMDIyMTEzMzI5IiwidGxzIjoidGxzIiwic25pIjoid3d3LjE0NjAxMTc2Lnh5eiIsInRlc3RfbmFtZSI6IjcyIn0=
-
-vmess://eyJ2IjoiMiIsInBzIjoiMiB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJrZTdoejM2ZXd6IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-
-vmess://eyJ2IjoiMiIsInBzIjoiMyB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJndm5za3h3aWtvIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd2bnNreHdpa28tNDUxNTAxNzQ3NC5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
 hysteria2://447fb52e-8377-452e-8f9e-873dd2d3f1f8@45.89.109.129:443?security=tls&insecure=1&mport=50000-53000&sni=music.apple.com#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
