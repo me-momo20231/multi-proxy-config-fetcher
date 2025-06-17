@@ -8,11 +8,11 @@ trojan://136f49cf-b30c-4f9c-b7ce-4319ac87cdbe@little-frog-caa9v.ferawi7897.worke
 
 trojan://136f49cf-b30c-4f9c-b7ce-4319ac87cdbe@little-frog-caa9v.ferawi7897.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=little-frog-caa9v.ferawi7897.workers.dev&fp=randomized&type=ws&sni=little-frog-caa9v.ferawi7897.workers.dev#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+trojan://91565d37-e81a-479d-9cb0-9cb2d86cea2c@104.21.22.211:443?path=%2FfL1PjbUtiQpUI3nfCNbqCRr57Xa&security=tls&host=xxcddvfr.taipei108.dpdns.org&type=ws&sni=xxcddvfr.taipei108.dpdns.org#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://L8U%7DdsK%26%21p%5B3@www.speedtest.net:8443?path=%2Ftr03UmdqNDGl46xp6G%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=0hvsno270bvrxg6ekby8umsqn-6941fa.pages.dev&fp=randomized&type=ws&sni=0HvsNO270bvRxG6EKbY8uMsQn-6941Fa.paGeS.dEV#@meli_proxyy`
 
 trojan://telegram-id-directvpn@13.36.8.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@13.36.8.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-directvpn@13.36.8.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
@@ -176,6 +176,18 @@ vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&se
 
 vless://7d05d766-4f45-455e-b789-70253ec34b8f@104.21.69.44:2053?path=%2Fcontainers%2Fde%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=ah12.ai351.com&fp=chrome&type=ws&sni=ah12.ai351.com#@meli_proxyy
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN86aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMTk4LjcxLjIxNiIsICJwb3J0IjogIjQ2MTU5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA5IDMuOU1CL3MiLCJhZGQiOiI0NS4xMi4xMTQuMTUiLCJwb3J0IjoiMjA3NzkiLCJpZCI6IjlkYzViZmY4LWJjYmItNDcwMy1iMGZlLTRmOTFiYTUxNzQwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTA5In0=
+
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEzIDYuMU1CL3MiLCJhZGQiOiI0NS4xMi4xMzguNDciLCJwb3J0IjoiMjI4MzkiLCJpZCI6IjI4NThhNDA0LWQwY2EtNGQ2Ny04MGE2LWNlOGU5NWUzODNmZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExMyJ9
+
+vmess://eyJ2IjoiMiIsInBzIjoiMiB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJrZTdoejM2ZXd6IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiNiB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJ4anU5NmtudGZqIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InhqdTk2a250ZmotNDUxNTAxNzQ3OC5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiOCB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiIydTdvcGk1c3FnIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjJ1N29waTVzcWctNDUxNTAxNzQ3Ni5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-2
@@ -189,18 +201,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.132
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YzM4c2FyQWhpMjlwNEJwOTVtTFh1@62.210.88.22:443#@meli_proxyy
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN86aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMTk4LjcxLjIxNiIsICJwb3J0IjogIjQ2MTU5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=
-
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA5IDMuOU1CL3MiLCJhZGQiOiI0NS4xMi4xMTQuMTUiLCJwb3J0IjoiMjA3NzkiLCJpZCI6IjlkYzViZmY4LWJjYmItNDcwMy1iMGZlLTRmOTFiYTUxNzQwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTA5In0=
-
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEzIDYuMU1CL3MiLCJhZGQiOiI0NS4xMi4xMzguNDciLCJwb3J0IjoiMjI4MzkiLCJpZCI6IjI4NThhNDA0LWQwY2EtNGQ2Ny04MGE2LWNlOGU5NWUzODNmZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExMyJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiMiB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJrZTdoejM2ZXd6IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-
-vmess://eyJ2IjoiMiIsInBzIjoiNiB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJ4anU5NmtudGZqIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InhqdTk2a250ZmotNDUxNTAxNzQ3OC5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-
-vmess://eyJ2IjoiMiIsInBzIjoiOCB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiIydTdvcGk1c3FnIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjJ1N29waTVzcWctNDUxNTAxNzQ3Ni5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
 hysteria2://447fb52e-8377-452e-8f9e-873dd2d3f1f8@45.89.109.129:443?security=tls&insecure=1&mport=50000-53000&sni=music.apple.com#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
