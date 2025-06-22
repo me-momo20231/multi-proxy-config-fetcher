@@ -8,7 +8,11 @@ trojan://telegram-id-directvpn@13.36.101.183:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@13.36.101.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+trojan://telegram-id-directvpn@13.36.101.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://telegram-id-directvpn@13.36.106.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@13.36.106.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@13.36.163.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -21,8 +25,6 @@ trojan://telegram-id-directvpn@13.39.4.140:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@13.39.4.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@13.39.72.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@13.39.72.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@15.236.162.49:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -60,29 +62,27 @@ trojan://telegram-id-privatevpns@13.36.106.226:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@13.36.163.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.39.0.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 trojan://telegram-id-privatevpns@13.39.0.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-wireguard://GAQOBNPwbXpuMZP0tEZtjeWz9gW6YwCYiZp95Yb%2BgVQ%3D@188.114.98.68:945?address=172.16.0.2%2F32&reserved=156%2C192%2C14&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
+wireguard://GAQOBNPwbXpuMZP0tEZtjeWz9gW6YwCYiZp95Yb%2BgVQ%3D@188.114.98.68:945?address=172.16.0.2%2F32&reserved=156%2C192%2C14&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
 
-wireguard://IBMHSrdMjVoo%2F25L%2Bk7aSLLuF%2FvZG46jA5I%2Bnti0404%3D@188.114.99.209:942?address=172.16.0.2%2F32&reserved=167%2C158%2C125&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon5
+wireguard://IBMHSrdMjVoo%2F25L%2Bk7aSLLuF%2FvZG46jA5I%2Bnti0404%3D@188.114.99.209:942?address=172.16.0.2%2F32&reserved=167%2C158%2C125&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
 
-wireguard://aLQE7Hh7ejTX4xya5ZYNVS6tA9vK9KiYru1iYZhbq2g%3D@188.114.97.47:943?address=172.16.0.2%2F32&reserved=91%2C45%2C84&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
+wireguard://aLQE7Hh7ejTX4xya5ZYNVS6tA9vK9KiYru1iYZhbq2g%3D@188.114.97.47:943?address=172.16.0.2%2F32&reserved=91%2C45%2C84&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
 
-wireguard://gIauKnNzXKMWEKvB%2BsHgqsuvuRgH8znnV7zGOBwrG1c%3D@188.114.99.77:1002?address=172.16.0.2%2F32&reserved=100%2C90%2C121&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
+wireguard://gIauKnNzXKMWEKvB%2BsHgqsuvuRgH8znnV7zGOBwrG1c%3D@188.114.99.77:1002?address=172.16.0.2%2F32&reserved=100%2C90%2C121&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon8
 
-wireguard://kClQ8%2BimZGX0zr92C9Jdgd7XxjTFMzIGLL7Vfw6FlVA%3D@188.114.98.116:945?address=172.16.0.2%2F32&reserved=156%2C84%2C19&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
+wireguard://gO8yVa81i3qwTA3jF5SGaJvsUmB%2FVNpGoLUMKfMsW3Y%3D@188.114.99.162:945?address=172.16.0.2%2F32&reserved=134%2C227%2C39&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
 
-wireguard://oHuAPQ%2BZp27PIW9rCfVhC67cRF4hmQslv02RsvRKJFA%3D@188.114.99.13:1014?address=172.16.0.2%2F32&reserved=131%2C10%2C229&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon8
+wireguard://kClQ8%2BimZGX0zr92C9Jdgd7XxjTFMzIGLL7Vfw6FlVA%3D@188.114.98.116:945?address=172.16.0.2%2F32&reserved=156%2C84%2C19&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
 
-wireguard://oO1w9zWoj855k41EX5KeM1jCidPjSJtgMLSxnMKLW1M%3D@188.114.96.13:880?address=172.16.0.2%2F32&reserved=41%2C201%2C247&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
+wireguard://oHuAPQ%2BZp27PIW9rCfVhC67cRF4hmQslv02RsvRKJFA%3D@188.114.99.13:1014?address=172.16.0.2%2F32&reserved=131%2C10%2C229&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
 
-wireguard://qPvJ0%2BmwPeeY0I5APw6FSf4I1EOiMkRw36RdLiInpVY%3D@188.114.97.240:908?address=172.16.0.2%2F32&reserved=51%2C195%2C74&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
+wireguard://oO1w9zWoj855k41EX5KeM1jCidPjSJtgMLSxnMKLW1M%3D@188.114.96.13:880?address=172.16.0.2%2F32&reserved=41%2C201%2C247&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
 
-wireguard://yE%2B3QykJNi0E2Bw86WmClDj42vogCYYd4mos9nVepVc%3D@188.114.99.30:987?address=172.16.0.2%2F32&reserved=248%2C76%2C236&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
+wireguard://qPvJ0%2BmwPeeY0I5APw6FSf4I1EOiMkRw36RdLiInpVY%3D@188.114.97.240:908?address=172.16.0.2%2F32&reserved=51%2C195%2C74&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon5
 
-wireguard://yINGSvsLXkPXD9Sp91UUNCVuyGgngJJRc8mPZkd5A10%3D@188.114.97.164:968?address=172.16.0.2%2F32&reserved=174%2C127%2C55&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
+wireguard://yINGSvsLXkPXD9Sp91UUNCVuyGgngJJRc8mPZkd5A10%3D@188.114.97.164:968?address=172.16.0.2%2F32&reserved=174%2C127%2C55&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
 
 vless://1d828176-751a-2700-6a53-08129bd4db2b@z4.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#@meli_proxyy
 
@@ -105,6 +105,8 @@ vless://5e4a7484-95b1-4d16-e99c-ff4db7e4eb86@snapp.ir:80?path=%2Fdas%2Flas&secur
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880/?type=ws&encryption=none&flow=&host=www.speedtest.net.zula.ir.cfp1.a2hdhjdxjbxjsjdjd.ddns-ip.nEt.&path=%40V2ray_God#@meli_proxyy
 
 vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
+
+vless://808cb101-6dc8-933c-49cc-bc9d91f75c0b@pviranian.ip-venzo.com:7070?security=reality&encryption=none&pbk=ubz7iJHjM9JSh8h0-SgPCgMfJejpu-CpmV0ZQYQhjXU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20Irancell Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?security=none&encryption=none&host=persiangames.online&headerType=http&type=tcp#@meli_proxyy
 
@@ -188,7 +190,13 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRlY1x1
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMgQ04tMzYuMTUwLjk0Ljc5OjM1MjE2IiwgImFkZCI6ICIzNi4xNTAuOTQuNzkiLCAicG9ydCI6ICIzNTIxNiIsICJpZCI6ICJjMzEzNjgxNC1hMDdlLTQxZjYtYWQ5NC04ZTIwNDU4YzBkMjEiLCAiYWlkIjogIjAiLCAic2N5IjogbnVsbCwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ3ZWIueGNqcy5pbmZvIiwgInBhdGgiOiAiL2hvbWUiLCAidGxzIjogInRscyIsICJzbmkiOiAianA2LmcyLm1vb25iYXNlLmxpZmUiLCAidGVzdF9uYW1lIjogIjk2In0=
 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9fEByaXBhb2ppZWRpYW4iLCJhZGQiOiIxMTEuMjYuMTA5Ljc5IiwicG9ydCI6IjMwODI4IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb29vbyIsImhvc3QiOiJvY2JjLmNvbSIsInRscyI6IiJ9
+
 vmess://eyJ2IjoiMiIsInBzIjoiNiB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJ4anU5NmtudGZqIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InhqdTk2a250ZmotNDUxNTAxNzQ3OC5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAyLjE3Ny4xODkuMzAiLCJwb3J0IjoiODAiLCJpZCI6IjAwMDEzZWM1LTE5M2MtNGZhMS1iYjFjLTk5ODgzYTk3NGJiMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJoMy5nckFzU29SeS5zaG9wIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTgzLjIzNi41MS4zOCIsInBvcnQiOiI1OTU1NCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjE5LjE1MS4yMC42MiIsInBvcnQiOiI0MjM0NCIsInR5cGUiOiJub25lIiwiaWQiOiI0MzgxYmVhZS00NWE2LTQ0MjEtODU0Ny02NWUzMTJkZDIwNGEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6ImZsYmhocy5kb25nZmFuZ3lpaGFvLnh5eiIsInRscyI6IiJ9
 
