@@ -6,6 +6,8 @@
 
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@www.speedtest.net:8443?host=invincible.fafa20.shop&type=ws&security=tls&path=%2Ftrwidp0ENHXMUNX4bA%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&sni=inVinciBLe.fafa20.sHop&fp=randomized&alpn=http%2F1.1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+trojan://Aimer@118.45.113.48:16064?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://telegram-id-directvpn@13.36.106.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.36.163.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
@@ -18,11 +20,11 @@ trojan://telegram-id-directvpn@13.39.0.228:22223?security=tls&alpn=http/1.1&head
 
 trojan://telegram-id-directvpn@13.39.4.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@13.39.4.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://telegram-id-directvpn@15.236.173.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@18.194.77.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@18.194.77.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-directvpn@18.197.223.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -61,8 +63,6 @@ trojan://telegram-id-privatevpns@13.38.159.113:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.39.0.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.39.4.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@15.236.173.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 wireguard://%2BPKqyWtT0G14ecvjTFt%2B9UZqmrK0F%2Fo3EiLh%2BsW%2B%2F2c%3D@188.114.96.172:1014?address=172.16.0.2%2F32&reserved=45%2C90%2C159&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
 
@@ -192,7 +192,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5bm/5Lic55yB5bm/5bee5biCIOenu+WKqCIsImFk
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIwLjIzMi4xNTMuNDAiLCJwb3J0IjoiMzEyMDkiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoicHJvZDAyLWxiMDItY2xvdWQwMS5jeWJlcnNjYWxlci5jb20iLCJwb3J0IjoiMzM2NzgiLCJpZCI6ImZkODNkNjNjLWU5N2UtNGE5NC04N2RiLTI3MTA3ZGNiZTI5MyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJhZGQiOiAiMTguMTYzLjU1LjEiLCAiYWlkIjogMCwgImhvc3QiOiAiMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA3Ni5jZ3JvdXAtbm9kZS1mb3ItYmlnYWlycG9ydC5zYnMiLCAiaWQiOiAiMzUxOWRmYzAtZmEyNy00MWNjLThjMTktOTgxODE4ZjlmNmQ1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQyMzU4LCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSEstMTguMTYzLjU1LjE6NDIzNTgiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDc2LmNncm91cC1ub2RlLWZvci1iaWdhaXJwb3J0LnNicyIsICJhbGxvd2luc2VjdXJlIjogMX0=
 
 vmess://eyJhZGQiOiAiMjEyLjIzLjIxNC4yMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ0cmFmZmljLXRpbGUubWFwcy5zbmFwcC5pciIsICJpZCI6ICIzNDc3ZTU1YS01NmJlLTRlMDMtYTdiOS1mNjA0NjBiYTZiNTYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDAwMSIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUi0yMTIuMjMuMjE0LjIyOjIwMDAxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
 
@@ -206,7 +206,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edge
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-4
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#@meli_proxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20(30) Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.242.174:443#%F0%9F%87%AC%F0%9F%87%A7%20GB-74.177.242.174%3A443 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#@meli_proxyy
 
