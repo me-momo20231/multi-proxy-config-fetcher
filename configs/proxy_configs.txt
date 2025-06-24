@@ -10,6 +10,8 @@ trojan://Aimer@118.45.113.48:16064?security=tls&type=tcp&sni=ngepx.ambercc.fileg
 
 trojan://telegram-id-directvpn@13.36.106.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@13.36.106.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://telegram-id-directvpn@13.36.163.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.38.159.113:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
@@ -62,8 +64,6 @@ trojan://telegram-id-privatevpns@13.38.159.113:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@13.39.0.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.39.4.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 wireguard://%2BPKqyWtT0G14ecvjTFt%2B9UZqmrK0F%2Fo3EiLh%2BsW%2B%2F2c%3D@188.114.96.172:1014?address=172.16.0.2%2F32&reserved=45%2C90%2C159&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
 
 wireguard://GAQOBNPwbXpuMZP0tEZtjeWz9gW6YwCYiZp95Yb%2BgVQ%3D@188.114.98.68:945?address=172.16.0.2%2F32&reserved=156%2C192%2C14&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
@@ -84,6 +84,8 @@ wireguard://qPvJ0%2BmwPeeY0I5APw6FSf4I1EOiMkRw36RdLiInpVY%3D@188.114.97.240:908?
 
 wireguard://wDgEhNfjrpuiuGDgfQWpYvq27Rjyjj3eqTTx5n%2FgL28%3D@188.114.96.23:945?address=172.16.0.2%2F32&reserved=240%2C34%2C6&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon8
 
+vless://008ed7c3-29a6-4187-a1a9-84a4533705a8@online.slashve.info:45468?security=none&encryption=none&host=iRaNserVeR.cOm&headerType=http&type=tcp#@meli_proxyy
+
 vless://020f1fc3-02f4-49c4-ae0e-8881ecc82467@speedtest.net:80?mode=auto&path=%2Fhu%3Fed%3D2560&security=none&encryption=none&host=bootstrap.com&type=xhttp#@meli_proxyy
 
 vless://0742d3cb-f567-4075-a479-d15dcc7a3ece@gertu.topvmmarket.shop:2086?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#@meli_proxyy
@@ -95,8 +97,6 @@ vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&path=%2F%4
 vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@speedtest.net:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=none&encryption=none&host=kiosyour-name.global.ssl.fastly.net&type=xhttp#@meli_proxyy
 
 vless://11285cc8-7db6-478d-b98c-02e5f15122d3@151.101.0.155:80?mode=packet-up&path=%2Fcategory%2Fculture.html%3Fed%3D8080&security=none&encryption=none&host=telewebion.com&type=xhttp#@meli_proxyy
-
-vless://142dd8b5-0b9e-4018-a961-2370d50cc435@dl2.meneteam.org:20118?security=none&encryption=none&host=hub.docker.com&headerType=http&type=tcp#@meli_proxyy
 
 vless://167d9962-124b-4b12-8a8d-8dd32c774fd9@wifi6.iampr0.com:800?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@meli_proxyy
 
@@ -114,6 +114,8 @@ vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@Mol1.misaghreserve.ir:80?path=%2FPa
 
 vless://42febf85-d4ce-42a9-9b58-ec9777bd3c69@151.101.3.8:80?encryption=none&host=gggrriizzzlyyyyyyyysshhhop.com&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp#@meli_proxyy
 
+vless://4886729c-bbf4-4a05-a12e-f7592be7ba25@rapid.lexicon-movie.ir:2096?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@meli_proxyy
+
 vless://4e0b9bb7-1df7-40c0-af4a-fccb0ef17249@151.101.0.155:80?mode=packet-up&path=%2Fcategory%2Ftraining%2F%3Fed%3D8080&security=none&alpn=h2&encryption=none&host=bama.ir&fp=chrome&type=xhttp&sni=python.org#@meli_proxyy
 
 vless://4e0b9bb7-1df7-40c0-af4a-fccb0ef17249@151.101.0.155:80?mode=packet-up&path=%2Fcategory%2Ftraining%2F%3Fed&security=none&alpn=h2&encryption=none&host=bama.ir&fp=chrome&type=xhttp&sni=python.org#@meli_proxyy
@@ -128,9 +130,7 @@ vless://6e30bc3d-0e3a-4399-9a02-c2d943e8d108@tfir.tehranify.shop:2344?security=n
 
 vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@meli_proxyy
 
-vless://7fd9da78-809b-459b-b62a-e227be8f5d75@chrom3.infospeedtest.com:13096?headerType=http&host=trello.com&path=%2F&security=none&type=tcp#@meli_proxyy
-
-vless://837333d2-64a7-4af0-91ff-b1b4aa995a94@151.101.0.155:80?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
+vless://7cc1a65d-2c12-437f-b915-247a3e4bde6b@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=nimanimanima.ir&type=xhttp#@meli_proxyy
 
 vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.189:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&fp=randomized&type=ws&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com#@meli_proxyy
 
@@ -141,8 +141,6 @@ vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.83:443?path=%2Fws%3Fed%3D
 vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy
 
 vless://b100bc08-4991-4f19-88a4-7c8dbfc176a2@185.143.234.143:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=panel.faloweram.ir&fp=chrome&type=ws&sni=panel.faloweram.ir#@meli_proxyy
-
-vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?path=%2F%3Fed%3D2048&security=tls&encryption=none&fp=firefox&type=ws&sni=reverse-tunnel.maketunnelim.lat#@meli_proxyy
 
 vless://bfc791d7-0ff4-4a9a-8215-118c496a7cd1@vip.360store.info:443?security=none&encryption=none&headerType=http&type=tcp#@meli_proxyy
 
@@ -174,8 +172,6 @@ vless://cb70e6ac-34d5-4ad6-952f-481f7e89292b@TOR.SODOGODPING.IR:213?security=non
 
 vless://cbc043ca-bef6-431b-a182-5ca6446253bb@mech.sharghidustrial.ir:443?path=%2F9GUmETb6BT7sPyZ4Bfz0qA&security=tls&alpn=http%2F1.1&encryption=none&host=mech.sharghidustrial.ir&fp=chrome&type=ws&sni=mech.sharghidustrial.ir#@meli_proxyy
 
-vless://d4710a65-4d89-4736-b575-917334dcfffb@wolf540.api-tel.ir:36338?type=tcp&security=reality&fp=chrome&pbk=WRbNyWLu_I0Mfyv6WWf4EwoE2srtKdwlUq2Z-tbJ6j4&flow=xtls-rprx-vision&sni=refersion.com&sid=82bd6d1066#v2box Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://d80186bd-2fa4-4908-95a0-95d56516f038@warden.microsof.click:33508?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy
 
 vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@151.101.3.8:80?path=%2Fdownload&security=none&encryption=none&host=haledada.com&type=ws#@meli_proxyy
@@ -183,6 +179,10 @@ vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@151.101.3.8:80?path=%2Fdownload&sec
 vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.104:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=de1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=de1.blackismyfavorite.ir#@meli_proxyy
 
 vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.167:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=de1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=de1.blackismyfavorite.ir#@meli_proxyy
+
+vless://ec46cba7-458c-81b1-ade9-5471757087d1@cdn3.myandroidplus2.ir:2894?path=%2F&security=none&encryption=none&host=bama.ir&type=ws#@meli_proxyy
+
+vless://f3b6c555-86f1-46be-b69e-1dc5aef41cd6@pivaz.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pivaz-i.com&type=ws#@meli_proxyy
 
 vmess://ewogICAgImFkZCI6ICIxMDQuMTcuMTc2LjE3MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwKICAgICJpZCI6ICI2Y2JjOWM3OC0xY2IxLTU3ZDQtYTk5OS1lMmY0ZTM0YzFlMDMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbmFzbmV0L2NkbiIsCiAgICAicG9ydCI6IDgwODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4xNy4xNzYuMTcxLTAyMjAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
@@ -209,4 +209,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edge
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20(30) Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#@meli_proxyy
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.242.174:443#%F0%9F%87%AC%F0%9F%87%A7%20GB-74.177.242.174%3A443 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20(47) Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#%F0%9F%87%B1%F0%9F%87%B9%20LT-45.87.175.92:8080 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.133:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN-103.186.155.133:38388 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
