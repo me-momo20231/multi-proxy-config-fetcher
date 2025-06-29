@@ -12,6 +12,8 @@ trojan://Aimer@20.243.85.49:10443/?type=tcp&security=tls&sni=epcca.ambercc.fileg
 
 trojan://Aimer@206.238.236.198:2083?sni=agepw.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+trojan://Aimer@45.134.21.8:2053/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#%40meli_proxyy
 
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@meli_proxyy
@@ -44,11 +46,11 @@ trojan://telegram-id-directvpn@3.69.218.69:22223?security=tls&alpn=http/1.1&head
 
 trojan://telegram-id-directvpn@3.74.36.198:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@35.156.229.197:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@35.158.252.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.181.206.161:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@51.44.226.39:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@52.29.248.103:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -61,8 +63,6 @@ trojan://telegram-id-directvpn@63.178.144.147:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.36.196.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.39.183.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@13.39.66.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 wireguard://IJ5DJBRXOWN2fm8SKH2irroR33i%2B6P5EEefEYGfRi1Q%3D@188.114.96.64:988?address=172.16.0.2%2F32&reserved=125%2C159%2C122&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
 
@@ -220,8 +220,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.c
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#@meli_proxyy
 
-vmess://ewogICAgImFkZCI6ICIxMDQuMjEuNjQuMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVzMDEuc2gtY2xvdWRmbGFyZS5zYnMiLAogICAgImlkIjogImYxMDU5OGUyLWM2MDYtNDk0NS1iZmRlLWU1NzMwNzU2YTJkZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4NDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuNjQuMS0wNzE5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMgQ04tMTQuMjE1LjQwLjEzNjoxNTcwOCIsICJhZGQiOiAiMTQuMjE1LjQwLjEzNiIsICJwb3J0IjogIjE1NzA4IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJmODM3YjUxMC03MDUwLTRkZWMtYjE4Mi1hNzc3ZGMzNTg0NjkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJzei1zZy0wOC5ncmFiZ28ucHJvIiwgInRscyI6ICIifQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSlAtMTguMTgxLjE2NS4yMzE6NDg4ODkiLCAiYWRkIjogIjE4LjE4MS4xNjUuMjMxIiwgInBvcnQiOiAiNDg4ODkiLCAidHlwZSI6ICJub25lIiwgImlkIjogImMxMzBjYjM2LWM5M2YtNGJlNy05MjI4LWE3YTk3ZDQzODg1YSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogImd5LnlvdWFyZW15Z29kLnRvcCIsICJ0bHMiOiAiIn0=
@@ -231,4 +229,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRkZThc
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9M3xAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMTA0LjIxLjU3LjIwNiIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIzZDk3NDFkYS1jMGU0LTQ3Y2MtYTVlMC1mMWFmM2QzMzdkYWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL1UyWjBGb0JrZ3RacWZ3QXdZMlNObSIsImhvc3QiOiJzc3Nzc3Nzc3Nzc2RkZGZndC40NDQ0OTI2Lnh5eiIsInRscyI6IiJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiNiB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJ4anU5NmtudGZqIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InhqdTk2a250ZmotNDUxNTAxNzQ3OC5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiOCB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiIydTdvcGk1c3FnIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjJ1N29waTVzcWctNDUxNTAxNzQ3Ni5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
