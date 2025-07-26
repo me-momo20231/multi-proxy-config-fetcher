@@ -12,8 +12,6 @@ trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.pl
 
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@meli_proxyy
 
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#@meli_proxyy
@@ -58,6 +56,8 @@ trojan://telegram-id-directvpn@63.178.130.164:22223?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-directvpn@63.178.189.3:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-privatevpns@13.37.103.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 wireguard://QEVkHK4j7aNKNWpAQfRn8mO%2BZ9Bkdv2y11cAUbdgZ2c%3D@188.114.99.25:955?address=172.16.0.2%2F32&reserved=111%2C45%2C194&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
 
 wireguard://UMdoTOoTt6LDelnhwHuTDb%2BOdHo0pLP72ZSfAcE1LWc%3D@188.114.96.161:988?address=172.16.0.2%2F32&reserved=82%2C170%2C166&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
@@ -100,6 +100,8 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJUZWxlZ3JhbUB2aXR1cmV5ICBcdUQ4M0NcdURERkFc
 
 vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMDAuMTMtNTAzOCIsCiAgImFkZCI6ICIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogIjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsCiAgImFpZCI6IDAsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6IG51bGwsCiAgImhvc3QiOiAiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLAogICJwYXRoIjogIi9henVtYXNlLnJlbiIsCiAgInRscyI6IHRydWUsCiAgInNuaSI6ICIiCn0=
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE5NC44Ny42OS40MiIsICJwb3J0IjogIjExOTIxIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMzE4MzlhMC1mNzNhLTQxODMtYmQ1ZS0wYzZiZTNlODliNDAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+
 vmess://eyJhZGQiOiI0NS42Ny4yMzAuNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ii9KT0tFUlJWUE5fQklBX0NIQU5FTEBKT0tFUlJWUE4iLCJpZCI6IjMxNDE4NWY3LTkzMWQtNDY1Ni05MjJkLTA4NTdlN2FmZDIyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwNTIiLCJwcyI6IkBtZWxpX3Byb3h5eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI1MS42OC4xOTEuMjMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IuKchdiz2LHZiNix2YfYp9uM2KjbjNi02KrYsdiv2LHaqdin2YbYp9mEOnBycm9maWxlX3B1cnBsZUDinIUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
@@ -110,9 +112,7 @@ vmess://eyJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 vmess://eyJhZGQiOiIxMDMuMjUzLjI2LjEzNCIsImFpZCI6NCwiaG9zdCI6ImVlaDdpZXdlLmNvbSIsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC93cyIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
-vmess://eyJhZGQiOiIxNTkuODkuMjIuMjI5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZmNWM1MGZjLTBjYTctNTNmOS0wMDdjLTViM2Y2NTExZjFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODA4MCIsInBzIjoi4pyF2LPYsdmI2LHZh9in24zYqNuM2LTYqtix2K/Ysdqp2KfZhtin2YQ6cHJyb2ZpbGVfcHVycGxlQOKchSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxNzUwMTU4NzQxLnRlbmNlbnRhcHAuY24iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUxLmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIiwiaWQiOiI4N2I5OTJlNC00MmM5LTQzNDItYTlhYS00ODZjNDE0NGE4ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+GlEBEYXJrSHViX1ZQTvCfhpRARGFya0h1Yl9WUE7wn4aUQERhcmtIdWJfVlBO8J+GlEBEYXJrSHViX1ZQTvCfhpRARGFya0h1Yl9WUE7wn4aUQERhcmtIdWJfVlBO8J+GlEBEYXJrSHViX1ZQTvCfhpRARGFya0h1Yl9WUE7wn4aUQERhcmtIdWJfVlBO8J+GlEBEYXJrSHViX1ZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiJmcmVlMS5sb29weWNsb3VkY2ZqaWFzdWNkbi51cy5rZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDMuMjUzLjI2LjIwIiwiYWlkIjo0LCJob3N0IjoiemVjamsuY29tIiwiaWQiOiJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3dzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-1
 
