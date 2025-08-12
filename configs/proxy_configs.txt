@@ -30,6 +30,10 @@ trojan://telegram-id-directvpn@3.72.137.245:22223?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@3.74.185.110:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@3.74.185.110:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+trojan://telegram-id-directvpn@35.157.236.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@35.181.20.21:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@51.44.118.76:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
@@ -40,13 +44,9 @@ trojan://telegram-id-directvpn@63.177.155.28:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@63.177.18.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@63.178.100.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@63.179.73.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@63.179.81.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-privatevpns@13.36.247.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.15:443?mode=auto&path=%2Fds&security=none&encryption=none&type=xhttp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
@@ -86,9 +86,9 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzYuNTEuMzgiLCJwb3J0IjoiNDkzMDIiLCJpZCI6IjQx
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70xNCB8IOKsh++4jyAyLjJNQi9zIiwiYWRkIjoiM3NkZmd2Y3h4eC45MzgucHAudWEiLCJwb3J0Ijo0NDMsImlkIjoiMDIxMmZhYjUtZTkzYy00OTA0LWI3YTgtMTg3ZmQ1MzVmMzU0IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIzc2RmZ3ZjeHh4LjkzOC5wcC51YSIsInBhdGgiOiIvUDg3OW10Q29IUXFhV082N3FFYU1JTloxIiwiaG9zdCI6IjNzZGZndmN4eHguOTM4LnBwLnVhIn0=
 
-vmess://eyJhZGQiOiI3NmQ5ZGJmOS1zdmE3NDAtc3plZ29lLTEyaGo4LmhrMy5wNXB2LmNvbSIsImFpZCI6MiwiaG9zdCI6Ijc2ZDlkYmY5LXN2YTc0MC1zemVnb2UtMTJoajguaGszLnA1cHYuY29tIiwiaWQiOiI1YWNjN2E3Yy1kN2VhLTExZWItODY3My1mMjNjOTE2NGNhNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
+vmess://eyJhZGQiOiI0NS43Ny4xNDEuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQ1MzUwNDY1LWFiNjMtNGQzMC1lYmRhLTVjYmUwNzUxY2JkNiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwODciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgREUgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAdnBuemFtaW4gWzRdIn0
 
-vmess://eyJhZGQiOiI5MS4yMjguMTAuMTI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiODM3ZGRkLTdkZmItNDUyMC1kZDljLTY1ZDYxZDY0MDg5NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDc2ODIiLCJwcyI6IvCfko7aqdin2YbZgduM2q8g2YfYp9uMINio24zYtNiq2LEg2K/YsSDahtmG2YQg2KrZhNqv2LHYp9mF8J+SjiBDb25maWdfUmF5ZWdhbkAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI3NmQ5ZGJmOS1zdmE3NDAtc3plZ29lLTEyaGo4LmhrMy5wNXB2LmNvbSIsImFpZCI6MiwiaG9zdCI6Ijc2ZDlkYmY5LXN2YTc0MC1zemVnb2UtMTJoajguaGszLnA1cHYuY29tIiwiaWQiOiI1YWNjN2E3Yy1kN2VhLTExZWItODY3My1mMjNjOTE2NGNhNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#4Nika-38 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
