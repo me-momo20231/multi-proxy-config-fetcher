@@ -14,13 +14,13 @@ trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sn
 
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+trojan://telegram-id-directvpn@13.37.161.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@13.37.204.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.37.204.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-directvpn@13.39.54.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@13.39.54.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-directvpn@15.188.45.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -30,17 +30,11 @@ trojan://telegram-id-directvpn@18.158.32.88:22223?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@18.193.140.121:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@18.197.119.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@3.121.145.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@3.127.24.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@3.75.161.52:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@3.76.184.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@35.180.10.37:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.181.17.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -66,6 +60,8 @@ vless://13d4b0f0-b153-4df2-baa7-c11bd3b746c8@zZz.ZzZ.zZz.yasharteam.com:443?secu
 
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.156:443?mode=stream-one&path=%2Fad%3Fed%3D2048%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none&encryption=none&type=xhttp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
+vless://19de5ba4-82b2-4a11-898e-ae460d6733fe@real-z3.sdcards1.ir:8585?security=reality&encryption=none&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=ea0e387f2b260e0d#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
 vless://202ac83e-9012-4283-8acb-9af2c2a2dfeb@ab.iranlit.ir:1611?security=reality&encryption=none&pbk=3EWvgfHUv-7aKL47dJL1WiIHY43aeWo8QUZRjzCw0RI&headerType=none&fp=chrome&type=tcp&sni=zhaket.com&sid=6f84e8adb893b4bd#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
@@ -84,8 +80,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RGJENTRkYXZqdldtOUxTQTZwMDdQ@callmark.cl.callmark.cl:43445#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
@@ -100,9 +94,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1Qdmt
 
 vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HqPCfh7NfQ05f5Lit5Zu9LT7wn4e68J+HuF9VU1/nvo7lm70iLAogICJhZGQiOiAidjM3LmhlZHVpYW4ubGluayIsCiAgInBvcnQiOiAzMDgzNywKICAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwKICAiYWlkIjogMiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogbnVsbCwKICAiaG9zdCI6ICJ2MzcuaGVkdWlhbi5saW5rIiwKICAicGF0aCI6ICIvb29vbyIsCiAgInRscyI6IGZhbHNlLAogICJzbmkiOiAiIgp9
 
+vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiI1NTU1NSIsInNjeSI6ImF1dG8iLCJpZCI6IjFjNWVhYjc2LTA0MTUtNDNiOS04YjkxLWYzZGM5ZTE1Nzc4OSIsIm5ldCI6InRjcCIsImhvc3QiOiIiLCJwYXRoIjoiIiwicHMiOiJTYWdoaVZwblhCT1QlNUIxJTVEIiwiYWRkIjoibWNpLnlla3RhbmV0LmluZm8ifQ==
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4yNi4wLjMiLCAicG9ydCI6ICIyMDk1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJjMy42MDE2NzI1Lnh5eiIsICJ0bHMiOiAiIn0=
 
 vmess://eyJhZGQiOiI0NS42Ny4yMzAuNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTA1MiIsInBzIjoi8J+Sjtqp2KfZhtmB24zaryDZh9in24wg2KjbjNi02KrYsSDYr9ixINqG2YbZhCDYqtmE2q/Ysdin2YXwn5KOIENvbmZpZ19SYXllZ2FuQCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI1MS4yNTQuMjEuMTkzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjliY2VjYjI2LTkyMGEtNGU2OC1iMjk2LTg4NTI2MzEwYmZmNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IuKchdiz2LHZiNix2YfYp9uM2KjbjNi02KrYsdiv2LHaqdin2YbYp9mEOnBycm9maWxlX3B1cnBsZUDinIUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiI3NmQ5ZGJmOS1zdmE3NDAtc3plZ29lLTEyaGo4LmhrMy5wNXB2LmNvbSIsImFpZCI6MiwiaG9zdCI6Ijc2ZDlkYmY5LXN2YTc0MC1zemVnb2UtMTJoajguaGszLnA1cHYuY29tIiwiaWQiOiI1YWNjN2E3Yy1kN2VhLTExZWItODY3My1mMjNjOTE2NGNhNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
 
