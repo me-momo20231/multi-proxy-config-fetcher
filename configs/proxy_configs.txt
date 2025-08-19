@@ -52,7 +52,7 @@ trojan://telegram-id-directvpn@52.47.96.192:22223?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@54.93.134.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@63.178.134.70:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+trojan://telegram-id-directvpn@63.179.83.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?encryption=none&security=tls&sni=FqJEDaZA7b2vOFJ9IheMX319rMo41l7B.PaGeS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=fqjedaza7b2vofj9ihemx319rmo41l7b.pages.dev&path=%2FbPbqOlkiKh7HD4IR%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%40vmessprotocol
 
