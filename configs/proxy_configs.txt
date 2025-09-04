@@ -14,6 +14,8 @@ trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sn
 
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
+
 trojan://slch2024@185.174.138.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20mtmvpn%40
 
 trojan://slch2024@185.238.228.195:2096?path=Telegram%2525F0%25259F%252587%2525A8%2525F0%25259F%252587%2525B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@meli_proxyy
@@ -46,8 +48,6 @@ trojan://telegram-id-directvpn@3.124.129.130:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@3.124.235.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@3.67.96.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-305@185.146.173.39:8880?path=%2F%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@meli_proxyy
 
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-305@91.99.16.244:443?mode=auto&path=%2F%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D&security=reality&encryption=none&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&spx=%2FMTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&type=xhttp&sni=Google.com&sid=61e683d41fdb#@meli_proxyy
@@ -70,6 +70,8 @@ vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGOVx1RDgzQ1x1RERGNyBUdXJrZXkgfHRyeGIiLA0KICAiYWRkIjogInppYjR0dS5pbmZvc3BlZWR0ZXN0LmNvbSIsDQogICJwb3J0IjogIjExNTc3IiwNCiAgImlkIjogIjFkNzNhNDMyLWQxYjEtNGRjNi1iOGJjLTk0Yjk3Y2QwMTdjNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAiaHR0cCIsDQogICJob3N0IjogInRyZWxsby5jb20iLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
+vmess://ewogICAgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh6jwn4emQ0EtNTEuNzkuMTAyLjI1My0wOTIyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+
 vmess://ewogICAgImFkZCI6ICIyMDYuMjA2LjgwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMGFiYjdiOWUtODFiYS00MzM2LThjYTctMDU2ODY2MDMyZmYzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwMDg2LAogICAgInBzIjogIvCfh7rwn4e4VVMtMjA2LjIwNi44MC4yMjctMDM0NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjEzOC43NC4xNzMiLCJwb3J0IjoxMzcwMCwiaWQiOiI2ZGRmMzA0OS1hY2VhLTQ3YTMtODk5Yy04NjJlNmU5ZDVkMGYiLCJuZXQiOiJncnBjIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicGF0aCI6IlRlbGVncmFtQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2kiLCJwcyI6Ilx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmOSBBVCB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEBybnJpZmNpIFs0XSJ9
@@ -86,11 +88,9 @@ vmess://eyJhZGQiOiI3NmQ5ZGJmOS1zdmE3NDAtc3plZ29lLTEyaGo4LmhrMy5wNXB2LmNvbSIsImFp
 
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJAbWVsaV9wcm94eXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiLwn4ep8J+HqkBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
 vmess://eyJhZGQiOiI4OS40Ni4yMzUuMjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNmYThjMmE1LTUxOTYtNDNjYi1iNTRiLWUzOTFiMjgzODgzNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLinIXYs9ix2YjYsdmH2KfbjNio24zYtNiq2LHYr9ix2qnYp9mG2KfZhDpwcnJvZmlsZV9wdXJwbGVA4pyFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiI5MS45OS4xODUuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IkBtZWxpX3Byb3h5eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiI5Mi4xMTIuMTI2LjIyIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoic2FmYXJpIiwiaG9zdCI6Im5sLTIuc3R1bm5lbC5jYyIsImlkIjoiMzkzNzIwMzUtMzMyMC00NTM3LWEwMzEtMzAzMTIwMzEzMDMwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IuKchdiz2LHZiNix2YfYp9uM2KjbjNi02KrYsdiv2LHaqdin2YbYp9mEOnBycm9maWxlX3B1cnBsZUDinIUiLCJzY3kiOiJub25lIiwic25pIjoibmwtMi5zdHVubmVsLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%AE%F0%9F%87%B7%20Meli Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
