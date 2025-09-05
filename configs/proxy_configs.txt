@@ -34,6 +34,8 @@ trojan://telegram-id-directvpn@3.124.129.130:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@3.124.235.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@3.124.235.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 trojan://telegram-id-directvpn@3.67.96.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@3.76.235.35:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
@@ -49,8 +51,6 @@ trojan://telegram-id-directvpn@63.179.44.169:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.37.161.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.38.239.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@13.39.55.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-305@91.99.16.244:443?mode=auto&path=%2F%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D&security=reality&encryption=none&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&spx=%2FMTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&type=xhttp&sni=Google.com&sid=61e683d41fdb#@meli_proxyy
 
