@@ -18,11 +18,11 @@ trojan://slch2024@195.85.59.195:2096?path=Telegram&security=tls&host=ocost-dy.wm
 
 trojan://telegram-id-directvpn@13.37.161.126:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@13.38.239.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@13.39.55.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@15.188.138.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@15.188.138.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-directvpn@15.237.140.56:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -44,6 +44,8 @@ trojan://telegram-id-directvpn@3.76.235.35:22223?security=tls&alpn=http/1.1&head
 
 trojan://telegram-id-directvpn@35.159.253.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@35.180.235.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@35.180.246.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@51.44.193.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
@@ -55,8 +57,6 @@ trojan://telegram-id-directvpn@63.176.195.141:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@63.179.44.169:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-privatevpns@13.37.161.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@13.38.239.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-305@91.99.16.244:443?mode=auto&path=%2F%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D&security=reality&encryption=none&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&spx=%2Fmtmvpn----mtmvpn----mtmvpn----mtmvpn-----mtmvpn------mtmvpn---mtmvpn-----mtmvpn------mtmvpn&type=xhttp&sni=Google.com&sid=61e683d41fdb#@meli_proxyy
 
@@ -122,6 +122,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZGYzOTNlZi1iNWZhLTRmZmQtOWFmMy03NjEwMzRiZjM
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3U1FPdk5NaWVpbGZ5S1BCTklaTGpT@78.129.140.11:443#@meli_proxyy
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDZVB6NmplcFUyUEdMbEtC@azjnac1.uksouth.cloudapp.azure.com:443#@meli_proxyy
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%AB%F0%9F%87%AEFI%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC Keys#Outline #Shadowsocks #VPN #FreeVPN
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPMExKaFdjM2MwWkQ5Y3RiNEhXR1NP@89.185.84.185:443#@meli_proxyy
@@ -131,4 +133,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456?pr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%B5%F0%9F%87%B1PL%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC Keys#Outline #Shadowsocks #VPN #FreeVPN
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC Keys#Outline #Shadowsocks #VPN #FreeVPN
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI=@141.164.63.32:30936?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%B0%F0%9F%87%B7KR%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC Keys#Outline #Shadowsocks #VPN #FreeVPN
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#@meli_proxyy
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.cloudapp.azure.com:443#@meli_proxyy
 
